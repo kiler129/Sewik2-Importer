@@ -1,0 +1,32 @@
+{
+  "name": "sewik2/importer",
+  "description": "Parses XML files obtained from police into SEWIK database using SAX parser.",
+  "keywords": [
+    "sewik",
+    "accidents",
+    "police",
+    "xml",
+    "psr-4"
+  ],
+  "homepage": "http://github.com/kiler129/Sewik2-Importer",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Grzegorz Zdanowski",
+      "email": "grzegorz@noflash.pl",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "psr/log": "~1.0"
+  },
+  "suggest": {
+    "noflash/shout": "Recommended logging library."
+  },
+  "autoload": {
+    "psr-4": {
+      "Sewik2\\Importer\\": "src"
+    }
+  }
+}
