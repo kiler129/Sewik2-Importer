@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="ISO-8859-2"?>
+<sewik:SEWIK_EXP_XML_02 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                        xmlns:sewik="http://www.policja.gov.pl/sewik"
+                        xsi:noNamespaceSchemaLocation="SEWIK_EXP_XML_02.xsd" DataZrzutu="2015-04-09T15:44:06"
+                        DataOd="2014-01-01" DataDo="2014-12-31" LiczbaZdarzen="8318">
+    <ZDARZENIA>
+        <ZDARZENIE DataUtworzenia="2014-01-07" DataMod="2014-01-07" SzkicZdarzenia="N">
+            <ID>98081291</ID>
+            <JEDNOSTKA_MIEJSCA>OP KPP Brzeg</JEDNOSTKA_MIEJSCA>
+            <JEDNOSTKA_LIKWIDUJACA>OP Komisariat Grodków</JEDNOSTKA_LIKWIDUJACA>
+            <JEDNOSTKA_OPERATORA>OP KPP Brzeg</JEDNOSTKA_OPERATORA>
+            <NR_KW>Nr Rejestru K3/14</NR_KW>
+            <KOD_GUS>1601035</KOD_GUS>
+            <GPS_X_GUS>17.3526558437535</GPS_X_GUS>
+            <GPS_Y_GUS>50.6900317199628</GPS_Y_GUS>
+            <WOJ>WOJ. OPOLSKIE</WOJ>
+            <GMINA>GRODKÓW - OBSZAR WIEJSKI</GMINA>
+            <POWIAT>POWIAT BRZESKI</POWIAT>
+            <ZSSD_KOD>378</ZSSD_KOD>
+            <KM_HM>19.4</KM_HM>
+            <DATA_ZDARZENIA>2014-01-01T20:30:00</DATA_ZDARZENIA>
+            <DATA_ZDARZ>2014-01-01</DATA_ZDARZ>
+            <GODZINA_ZDARZ>20:30:00</GODZINA_ZDARZ>
+            <PREDKOSC_DOPUSZCZALNA>90</PREDKOSC_DOPUSZCZALNA>
+            <SZOS_KOD>05</SZOS_KOD>
+            <SZOS_TABK_TYPE>SZOS</SZOS_TABK_TYPE>
+            <SZRD_KOD>09</SZRD_KOD>
+            <SZRD_TABK_TYPE>SZRD</SZRD_TABK_TYPE>
+            <DROGA_PUBLICZNA>T</DROGA_PUBLICZNA>
+            <INFO_O_DRODZE>
+                <NAWIERZCHNIA>
+                    <NADR_KOD>
+                        <ZSZD_ID>98081291</ZSZD_ID>
+                        <NADR_KOD>01</NADR_KOD>
+                        <NADR_TABK_TYPE>NADR</NADR_TABK_TYPE>
+                    </NADR_KOD>
+                </NAWIERZCHNIA>
+                <STAN_NAWIERZCHNI>
+                    <STNA_KOD>
+                        <ZSZD_ID>98081291</ZSZD_ID>
+                        <STNA_KOD>01</STNA_KOD>
+                        <STNA_TABK_TYPE>STNA</STNA_TABK_TYPE>
+                    </STNA_KOD>
+                </STAN_NAWIERZCHNI>
+                <RODZAJ_DROGI>
+                    <RODR_KOD>
+                        <ZSZD_ID>98081291</ZSZD_ID>
+                        <RODR_KOD>05</RODR_KOD>
+                        <RODR_TABK_TYPE>RODR</RODR_TABK_TYPE>
+                    </RODR_KOD>
+                </RODZAJ_DROGI>
+                <SYGNALIZACJA_SWIETLNA>
+                    <SYSW_KOD>
+                        <ZSZD_ID>98081291</ZSZD_ID>
+                        <SYSW_KOD>03</SYSW_KOD>
+                        <SYSW_TABK_TYPE>SYSW</SYSW_TABK_TYPE>
+                    </SYSW_KOD>
+                </SYGNALIZACJA_SWIETLNA>
+                <OZNAKOWANIE_POZIOME>
+                    <OZPO_KOD>
+                        <ZSZD_ID>98081291</ZSZD_ID>
+                        <OZPO_KOD>A2</OZPO_KOD>
+                        <OZPO_TABK_TYPE>OZPO</OZPO_TABK_TYPE>
+                    </OZPO_KOD>
+                </OZNAKOWANIE_POZIOME>
+            </INFO_O_DRODZE>
+            <MIEJSCE>
+                <GEOMETRIA_DROGI>
+                    <GEOD_KOD>
+                        <ZSZD_ID>98081291</ZSZD_ID>
+                        <GEOD_KOD>01</GEOD_KOD>
+                        <GEOD_TABK_TYPE>GEOD</GEOD_TABK_TYPE>
+                    </GEOD_KOD>
+                </GEOMETRIA_DROGI>
+                <OBSZAR_ZABUDOWANY>
+                    <ZABU_KOD>
+                        <ZSZD_ID>98081291</ZSZD_ID>
+                        <ZABU_KOD>02</ZABU_KOD>
+                        <ZABU_TABK_TYPE>ZABU</ZABU_TABK_TYPE>
+                    </ZABU_KOD>
+                </OBSZAR_ZABUDOWANY>
+                <CHARAKT_MIEJSCA>
+                    <CHMZ_KOD>
+                        <ZSZD_ID>98081291</ZSZD_ID>
+                        <CHMZ_KOD>A1</CHMZ_KOD>
+                        <CHMZ_TABK_TYPE>CHMZ</CHMZ_TABK_TYPE>
+                    </CHMZ_KOD>
+                </CHARAKT_MIEJSCA>
+            </MIEJSCE>
+            <WARUNKI_ATMOSFERYCZNE>
+                <SSWA_KOD>
+                    <ZSZD_ID>98081291</ZSZD_ID>
+                    <SSWA_KOD>01</SSWA_KOD>
+                    <SSWA_TABK_TYPE>SSWA</SSWA_TABK_TYPE>
+                </SSWA_KOD>
+            </WARUNKI_ATMOSFERYCZNE>
+            <INNE_PRZYCZYNY>
+                <SPIP_KOD>
+                    <ZSZD_ID>98081291</ZSZD_ID>
+                    <SPIP_KOD>08</SPIP_KOD>
+                    <SPIP_TABK_TYPE>SPIP</SPIP_TABK_TYPE>
+                </SPIP_KOD>
+            </INNE_PRZYCZYNY>
+            <POJAZDY>
+                <POJAZD DataUtworzenia="2014-01-07" DataMod="2014-01-07">
+                    <ID>112260790</ID>
+                    <ZSZD_ID>98081291</ZSZD_ID>
+                    <NR_POJAZDU>1</NR_POJAZDU>
+                    <RODZAJ_POJAZDU>IS21</RODZAJ_POJAZDU>
+                    <MARKA>OPEL NIEOKREŚLONY</MARKA>
+                    <SPSU_KOD>MTU</SPSU_KOD>
+                    <SPSU_TABK_TYPE>SPSU</SPSU_TABK_TYPE>
+                </POJAZD>
+            </POJAZDY>
+            <UCZESTNICY>
+                <OSOBA DataUtworzenia="2014-01-07" DataMod="2014-01-07">
+                    <ID>114593816</ID>
+                    <ZSZD_ID>98081291</ZSZD_ID>
+                    <ZSPO_ID>112260790</ZSPO_ID>
+                    <SSRU_KOD>K</SSRU_KOD>
+                    <SSRU_TABK_TYPE>SSRU</SSRU_TABK_TYPE>
+                    <DATA_UR>1966-06-23</DATA_UR>
+                    <SOBY_KOD>PL</SOBY_KOD>
+                    <SOBY_TABK_TYPE>SOBY</SOBY_TABK_TYPE>
+                    <PLEC>K</PLEC>
+                    <SUSU_KOD>P</SUSU_KOD>
+                    <SUSU_TABK_TYPE>SUSU</SUSU_TABK_TYPE>
+                    <LICZBA_LAT_KIEROWANIA>21</LICZBA_LAT_KIEROWANIA>
+                </OSOBA>
+            </UCZESTNICY>
+        </ZDARZENIE>
+        <ZDARZENIE DataUtworzenia="2014-01-07" DataMod="2014-01-07" SzkicZdarzenia="N">
+            <ID>98081291</ID>
+            <JEDNOSTKA_MIEJSCA>OP KPP Brzeg</JEDNOSTKA_MIEJSCA>
+            <JEDNOSTKA_LIKWIDUJACA>OP Komisariat Grodków</JEDNOSTKA_LIKWIDUJACA>
+            <JEDNOSTKA_OPERATORA>OP KPP Brzeg</JEDNOSTKA_OPERATORA>
+            <NR_KW>Nr Rejestru K3/14</NR_KW>
+            <KOD_GUS>1601035</KOD_GUS>
+            <GPS_X_GUS>17.3526558437535</GPS_X_GUS>
+            <GPS_Y_GUS>50.6900317199628</GPS_Y_GUS>
+            <WOJ>WOJ. OPOLSKIE</WOJ>
+            <GMINA>GRODKÓW - OBSZAR WIEJSKI</GMINA>
+            <POWIAT>POWIAT BRZESKI</POWIAT>
+            <ZSSD_KOD>378</ZSSD_KOD>
+            <KM_HM>19.4</KM_HM>
+            <DATA_ZDARZENIA>2014-01-01T20:30:00</DATA_ZDARZENIA>
+            <DATA_ZDARZ>2014-01-01</DATA_ZDARZ>
+            <GODZINA_ZDARZ>20:30:00</GODZINA_ZDARZ>
+            <PREDKOSC_DOPUSZCZALNA>90</PREDKOSC_DOPUSZCZALNA>
+            <SZOS_KOD>05</SZOS_KOD>
+            <SZOS_TABK_TYPE>SZOS</SZOS_TABK_TYPE>
+            <SZRD_KOD>09</SZRD_KOD>
+            <SZRD_TABK_TYPE>SZRD</SZRD_TABK_TYPE>
+            <DROGA_PUBLICZNA>T</DROGA_PUBLICZNA>
+            <INFO_O_DRODZE>
+                <NAWIERZCHNIA>
+                    <NADR_KOD>
+                        <ZSZD_ID>98081291</ZSZD_ID>
+                        <NADR_KOD>01</NADR_KOD>
+                        <NADR_TABK_TYPE>NADR</NADR_TABK_TYPE>
+                    </NADR_KOD>
+                </NAWIERZCHNIA>
+                <STAN_NAWIERZCHNI>
+                    <STNA_KOD>
+                        <ZSZD_ID>98081291</ZSZD_ID>
+                        <STNA_KOD>01</STNA_KOD>
+                        <STNA_TABK_TYPE>STNA</STNA_TABK_TYPE>
+                    </STNA_KOD>
+                </STAN_NAWIERZCHNI>
+                <RODZAJ_DROGI>
+                    <RODR_KOD>
+                        <ZSZD_ID>98081291</ZSZD_ID>
+                        <RODR_KOD>05</RODR_KOD>
+                        <RODR_TABK_TYPE>RODR</RODR_TABK_TYPE>
+                    </RODR_KOD>
+                </RODZAJ_DROGI>
+                <SYGNALIZACJA_SWIETLNA>
+                    <SYSW_KOD>
+                        <ZSZD_ID>98081291</ZSZD_ID>
+                        <SYSW_KOD>03</SYSW_KOD>
+                        <SYSW_TABK_TYPE>SYSW</SYSW_TABK_TYPE>
+                    </SYSW_KOD>
+                </SYGNALIZACJA_SWIETLNA>
+                <OZNAKOWANIE_POZIOME>
+                    <OZPO_KOD>
+                        <ZSZD_ID>98081291</ZSZD_ID>
+                        <OZPO_KOD>A2</OZPO_KOD>
+                        <OZPO_TABK_TYPE>OZPO</OZPO_TABK_TYPE>
+                    </OZPO_KOD>
+                </OZNAKOWANIE_POZIOME>
+            </INFO_O_DRODZE>
+            <MIEJSCE>
+                <GEOMETRIA_DROGI>
+                    <GEOD_KOD>
+                        <ZSZD_ID>98081291</ZSZD_ID>
+                        <GEOD_KOD>01</GEOD_KOD>
+                        <GEOD_TABK_TYPE>GEOD</GEOD_TABK_TYPE>
+                    </GEOD_KOD>
+                </GEOMETRIA_DROGI>
+                <OBSZAR_ZABUDOWANY>
+                    <ZABU_KOD>
+                        <ZSZD_ID>98081291</ZSZD_ID>
+                        <ZABU_KOD>02</ZABU_KOD>
+                        <ZABU_TABK_TYPE>ZABU</ZABU_TABK_TYPE>
+                    </ZABU_KOD>
+                </OBSZAR_ZABUDOWANY>
+                <CHARAKT_MIEJSCA>
+                    <CHMZ_KOD>
+                        <ZSZD_ID>98081291</ZSZD_ID>
+                        <CHMZ_KOD>A1</CHMZ_KOD>
+                        <CHMZ_TABK_TYPE>CHMZ</CHMZ_TABK_TYPE>
+                    </CHMZ_KOD>
+                </CHARAKT_MIEJSCA>
+            </MIEJSCE>
+            <WARUNKI_ATMOSFERYCZNE>
+                <SSWA_KOD>
+                    <ZSZD_ID>98081291</ZSZD_ID>
+                    <SSWA_KOD>01</SSWA_KOD>
+                    <SSWA_TABK_TYPE>SSWA</SSWA_TABK_TYPE>
+                </SSWA_KOD>
+            </WARUNKI_ATMOSFERYCZNE>
+            <INNE_PRZYCZYNY>
+                <SPIP_KOD>
+                    <ZSZD_ID>98081291</ZSZD_ID>
+                    <SPIP_KOD>08</SPIP_KOD>
+                    <SPIP_TABK_TYPE>SPIP</SPIP_TABK_TYPE>
+                </SPIP_KOD>
+            </INNE_PRZYCZYNY>
+            <POJAZDY>
+                <POJAZD DataUtworzenia="2014-01-07" DataMod="2014-01-07">
+                    <ID>112260790</ID>
+                    <ZSZD_ID>98081291</ZSZD_ID>
+                    <NR_POJAZDU>1</NR_POJAZDU>
+                    <RODZAJ_POJAZDU>IS21</RODZAJ_POJAZDU>
+                    <MARKA>OPEL NIEOKREŚLONY</MARKA>
+                    <SPSU_KOD>MTU</SPSU_KOD>
+                    <SPSU_TABK_TYPE>SPSU</SPSU_TABK_TYPE>
+                </POJAZD>
+            </POJAZDY>
+            <UCZESTNICY>
+                <OSOBA DataUtworzenia="2014-01-07" DataMod="2014-01-07">
+                    <ID>114593816</ID>
+                    <ZSZD_ID>98081291</ZSZD_ID>
+                    <ZSPO_ID>112260790</ZSPO_ID>
+                    <SSRU_KOD>K</SSRU_KOD>
+                    <SSRU_TABK_TYPE>SSRU</SSRU_TABK_TYPE>
+                    <DATA_UR>1966-06-23</DATA_UR>
+                    <SOBY_KOD>PL</SOBY_KOD>
+                    <SOBY_TABK_TYPE>SOBY</SOBY_TABK_TYPE>
+                    <PLEC>K</PLEC>
+                    <SUSU_KOD>P</SUSU_KOD>
+                    <SUSU_TABK_TYPE>SUSU</SUSU_TABK_TYPE>
+                    <LICZBA_LAT_KIEROWANIA>21</LICZBA_LAT_KIEROWANIA>
+                </OSOBA>
+            </UCZESTNICY>
+        </ZDARZENIE>
+    </ZDARZENIA>
+</sewik:SEWIK_EXP_XML_02>
