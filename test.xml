@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-2"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <sewik:SEWIK_EXP_XML_02 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                         xmlns:sewik="http://www.policja.gov.pl/sewik"
                         xsi:noNamespaceSchemaLocation="SEWIK_EXP_XML_02.xsd" DataZrzutu="2015-04-09T15:44:06"
@@ -7,14 +7,14 @@
         <ZDARZENIE DataUtworzenia="2014-01-07" DataMod="2014-01-07" SzkicZdarzenia="N">
             <ID>98081291</ID>
             <JEDNOSTKA_MIEJSCA>OP KPP Brzeg</JEDNOSTKA_MIEJSCA>
-            <JEDNOSTKA_LIKWIDUJACA>OP Komisariat Grodk�w</JEDNOSTKA_LIKWIDUJACA>
+            <JEDNOSTKA_LIKWIDUJACA>OP Komisariat Grodków</JEDNOSTKA_LIKWIDUJACA>
             <JEDNOSTKA_OPERATORA>OP KPP Brzeg</JEDNOSTKA_OPERATORA>
             <NR_KW>Nr Rejestru K3/14</NR_KW>
             <KOD_GUS>1601035</KOD_GUS>
             <GPS_X_GUS>17.3526558437535</GPS_X_GUS>
             <GPS_Y_GUS>50.6900317199628</GPS_Y_GUS>
             <WOJ>WOJ. OPOLSKIE</WOJ>
-            <GMINA>GRODK�W - OBSZAR WIEJSKI</GMINA>
+            <GMINA>GRODKÓW - OBSZAR WIEJSKI</GMINA>
             <POWIAT>POWIAT BRZESKI</POWIAT>
             <ZSSD_KOD>378</ZSSD_KOD>
             <KM_HM>19.4</KM_HM>
@@ -107,7 +107,7 @@
                     <ZSZD_ID>98081291</ZSZD_ID>
                     <NR_POJAZDU>1</NR_POJAZDU>
                     <RODZAJ_POJAZDU>IS21</RODZAJ_POJAZDU>
-                    <MARKA>OPEL NIEOKRE�LONY</MARKA>
+                    <MARKA>OPEL NIEOKREŚLONY</MARKA>
                     <SPSU_KOD>MTU</SPSU_KOD>
                     <SPSU_TABK_TYPE>SPSU</SPSU_TABK_TYPE>
                 </POJAZD>
@@ -129,25 +129,482 @@
                 </OSOBA>
             </UCZESTNICY>
         </ZDARZENIE>
-        <ZDARZENIE DataUtworzenia="2014-01-07" DataMod="2014-01-07" SzkicZdarzenia="N">
-            <ID>98081291</ID>
-            <JEDNOSTKA_MIEJSCA>OP KPP Brzeg</JEDNOSTKA_MIEJSCA>
-            <JEDNOSTKA_LIKWIDUJACA>OP Komisariat Grodk�w</JEDNOSTKA_LIKWIDUJACA>
-            <JEDNOSTKA_OPERATORA>OP KPP Brzeg</JEDNOSTKA_OPERATORA>
-            <NR_KW>Nr Rejestru K3/14</NR_KW>
-            <KOD_GUS>1601035</KOD_GUS>
-            <GPS_X_GUS>17.3526558437535</GPS_X_GUS>
-            <GPS_Y_GUS>50.6900317199628</GPS_Y_GUS>
+        <ZDARZENIE DataUtworzenia="2014-01-02" DataMod="2014-01-02" SzkicZdarzenia="N">
+            <ID>98078468</ID>
+            <JEDNOSTKA_MIEJSCA>OP KPP Nysa</JEDNOSTKA_MIEJSCA>
+            <JEDNOSTKA_LIKWIDUJACA>OP KPP Nysa Wydział Ruchu Drogowego</JEDNOSTKA_LIKWIDUJACA>
+            <JEDNOSTKA_OPERATORA>OP KPP Nysa</JEDNOSTKA_OPERATORA>
+            <NR_KW>Nr Rejestru R3/1/14</NR_KW>
+            <KOD_GUS>1607054</KOD_GUS>
+            <GPS_X_GUS>17.3341454348521</GPS_X_GUS>
+            <GPS_Y_GUS>50.4716750728345</GPS_Y_GUS>
             <WOJ>WOJ. OPOLSKIE</WOJ>
-            <GMINA>GRODK�W - OBSZAR WIEJSKI</GMINA>
-            <POWIAT>POWIAT BRZESKI</POWIAT>
-            <ZSSD_KOD>378</ZSSD_KOD>
-            <KM_HM>19.4</KM_HM>
-            <DATA_ZDARZENIA>2014-01-01T20:30:00</DATA_ZDARZENIA>
+            <GMINA>NYSA - OBSZAR MIEJSKI</GMINA>
+            <POWIAT>POWIAT NYSKI</POWIAT>
+            <MIEJSCOWOSC>NYSA</MIEJSCOWOSC>
+            <ULICA_ADRES>PIŁSUDSKIEGO</ULICA_ADRES>
+            <ULICA_SKRZYZ>ZWYCIĘSTWA</ULICA_SKRZYZ>
+            <DATA_ZDARZENIA>2014-01-01T21:05:00</DATA_ZDARZENIA>
             <DATA_ZDARZ>2014-01-01</DATA_ZDARZ>
-            <GODZINA_ZDARZ>20:30:00</GODZINA_ZDARZ>
+            <GODZINA_ZDARZ>21:05:00</GODZINA_ZDARZ>
+            <PREDKOSC_DOPUSZCZALNA>50</PREDKOSC_DOPUSZCZALNA>
+            <SZOS_KOD>03</SZOS_KOD>
+            <SZOS_TABK_TYPE>SZOS</SZOS_TABK_TYPE>
+            <SZRD_KOD>02</SZRD_KOD>
+            <SZRD_TABK_TYPE>SZRD</SZRD_TABK_TYPE>
+            <DROGA_PUBLICZNA>T</DROGA_PUBLICZNA>
+            <INFO_O_DRODZE>
+                <NAWIERZCHNIA>
+                    <NADR_KOD>
+                        <ZSZD_ID>98078468</ZSZD_ID>
+                        <NADR_KOD>01</NADR_KOD>
+                        <NADR_TABK_TYPE>NADR</NADR_TABK_TYPE>
+                    </NADR_KOD>
+                </NAWIERZCHNIA>
+                <STAN_NAWIERZCHNI>
+                    <STNA_KOD>
+                        <ZSZD_ID>98078468</ZSZD_ID>
+                        <STNA_KOD>02</STNA_KOD>
+                        <STNA_TABK_TYPE>STNA</STNA_TABK_TYPE>
+                    </STNA_KOD>
+                </STAN_NAWIERZCHNI>
+                <RODZAJ_DROGI>
+                    <RODR_KOD>
+                        <ZSZD_ID>98078468</ZSZD_ID>
+                        <RODR_KOD>05</RODR_KOD>
+                        <RODR_TABK_TYPE>RODR</RODR_TABK_TYPE>
+                    </RODR_KOD>
+                </RODZAJ_DROGI>
+                <SYGNALIZACJA_SWIETLNA>
+                    <SYSW_KOD>
+                        <ZSZD_ID>98078468</ZSZD_ID>
+                        <SYSW_KOD>03</SYSW_KOD>
+                        <SYSW_TABK_TYPE>SYSW</SYSW_TABK_TYPE>
+                    </SYSW_KOD>
+                </SYGNALIZACJA_SWIETLNA>
+                <OZNAKOWANIE_POZIOME>
+                    <OZPO_KOD>
+                        <ZSZD_ID>98078468</ZSZD_ID>
+                        <OZPO_KOD>A1</OZPO_KOD>
+                        <OZPO_TABK_TYPE>OZPO</OZPO_TABK_TYPE>
+                    </OZPO_KOD>
+                </OZNAKOWANIE_POZIOME>
+            </INFO_O_DRODZE>
+            <MIEJSCE>
+                <SKRZYZOWANIE>
+                    <SKRZ_KOD>
+                        <ZSZD_ID>98078468</ZSZD_ID>
+                        <SKRZ_KOD>07</SKRZ_KOD>
+                        <SKRZ_TABK_TYPE>SKRZ</SKRZ_TABK_TYPE>
+                    </SKRZ_KOD>
+                </SKRZYZOWANIE>
+                <OBSZAR_ZABUDOWANY>
+                    <ZABU_KOD>
+                        <ZSZD_ID>98078468</ZSZD_ID>
+                        <ZABU_KOD>01</ZABU_KOD>
+                        <ZABU_TABK_TYPE>ZABU</ZABU_TABK_TYPE>
+                    </ZABU_KOD>
+                </OBSZAR_ZABUDOWANY>
+                <CHARAKT_MIEJSCA>
+                    <CHMZ_KOD>
+                        <ZSZD_ID>98078468</ZSZD_ID>
+                        <CHMZ_KOD>A1</CHMZ_KOD>
+                        <CHMZ_TABK_TYPE>CHMZ</CHMZ_TABK_TYPE>
+                    </CHMZ_KOD>
+                </CHARAKT_MIEJSCA>
+            </MIEJSCE>
+            <WARUNKI_ATMOSFERYCZNE>
+                <SSWA_KOD>
+                    <ZSZD_ID>98078468</ZSZD_ID>
+                    <SSWA_KOD>04</SSWA_KOD>
+                    <SSWA_TABK_TYPE>SSWA</SSWA_TABK_TYPE>
+                </SSWA_KOD>
+            </WARUNKI_ATMOSFERYCZNE>
+            <POJAZDY>
+                <POJAZD DataUtworzenia="2014-01-02" DataMod="2014-01-02">
+                    <ID>112257517</ID>
+                    <ZSZD_ID>98078468</ZSZD_ID>
+                    <NR_POJAZDU>1</NR_POJAZDU>
+                    <RODZAJ_POJAZDU>IS21</RODZAJ_POJAZDU>
+                    <MARKA>FIAT NIEOKREŚLONY</MARKA>
+                    <SPSU_KOD>1</SPSU_KOD>
+                    <SPSU_TABK_TYPE>SPSU</SPSU_TABK_TYPE>
+                </POJAZD>
+                <POJAZD DataUtworzenia="2014-01-02" DataMod="2014-01-02">
+                    <ID>112257525</ID>
+                    <ZSZD_ID>98078468</ZSZD_ID>
+                    <NR_POJAZDU>2</NR_POJAZDU>
+                    <RODZAJ_POJAZDU>IS07</RODZAJ_POJAZDU>
+                    <MARKA>SOLBUS NIEOKREŚLONY</MARKA>
+                    <SPSU_KOD>HESTIA</SPSU_KOD>
+                    <SPSU_TABK_TYPE>SPSU</SPSU_TABK_TYPE>
+                </POJAZD>
+            </POJAZDY>
+            <UCZESTNICY>
+                <OSOBA DataUtworzenia="2014-01-02" DataMod="2014-01-02">
+                    <ID>114590466</ID>
+                    <ZSZD_ID>98078468</ZSZD_ID>
+                    <ZSPO_ID>112257525</ZSPO_ID>
+                    <SSRU_KOD>K</SSRU_KOD>
+                    <SSRU_TABK_TYPE>SSRU</SSRU_TABK_TYPE>
+                    <DATA_UR>1968-08-02</DATA_UR>
+                    <SOBY_KOD>PL</SOBY_KOD>
+                    <SOBY_TABK_TYPE>SOBY</SOBY_TABK_TYPE>
+                    <PLEC>M</PLEC>
+                    <SUSU_KOD>P</SUSU_KOD>
+                    <SUSU_TABK_TYPE>SUSU</SUSU_TABK_TYPE>
+                    <LICZBA_LAT_KIEROWANIA>16</LICZBA_LAT_KIEROWANIA>
+                </OSOBA>
+                <OSOBA DataUtworzenia="2014-01-02" DataMod="2014-01-02">
+                    <ID>114590462</ID>
+                    <ZSZD_ID>98078468</ZSZD_ID>
+                    <ZSPO_ID>112257517</ZSPO_ID>
+                    <SSRU_KOD>K</SSRU_KOD>
+                    <SSRU_TABK_TYPE>SSRU</SSRU_TABK_TYPE>
+                    <DATA_UR>1994-07-23</DATA_UR>
+                    <SOBY_KOD>PL</SOBY_KOD>
+                    <SOBY_TABK_TYPE>SOBY</SOBY_TABK_TYPE>
+                    <PLEC>M</PLEC>
+                    <SRUZ_KOD>M</SRUZ_KOD>
+                    <SRUZ_TABK_TYPE>SRUZ</SRUZ_TABK_TYPE>
+                    <SUSU_KOD>P</SUSU_KOD>
+                    <SUSU_TABK_TYPE>SUSU</SUSU_TABK_TYPE>
+                    <LICZBA_LAT_KIEROWANIA>0</LICZBA_LAT_KIEROWANIA>
+                    <PRZYCZYNY_KIEROWCY>
+                        <SPSZ_KOD>
+                            <ZSUC_ID>114590462</ZSUC_ID>
+                            <SPSZ_KOD>02</SPSZ_KOD>
+                            <SPSZ_TABK_TYPE>SPSZ</SPSZ_TABK_TYPE>
+                        </SPSZ_KOD>
+                    </PRZYCZYNY_KIEROWCY>
+                </OSOBA>
+            </UCZESTNICY>
+        </ZDARZENIE>
+        <ZDARZENIE DataUtworzenia="2014-01-03" DataMod="2014-01-03" SzkicZdarzenia="N">
+            <ID>98079865</ID>
+            <JEDNOSTKA_MIEJSCA>OP KPP Strzelce Opolskie</JEDNOSTKA_MIEJSCA>
+            <JEDNOSTKA_LIKWIDUJACA>OP KPP Strzelce Opolskie Wydział Prewencji i Ruchu Drogowego</JEDNOSTKA_LIKWIDUJACA>
+            <JEDNOSTKA_OPERATORA>OP KPP Strzelce Opolskie</JEDNOSTKA_OPERATORA>
+            <NR_KW>KW 20/14</NR_KW>
+            <KOD_GUS>1611054</KOD_GUS>
+            <WOJ>WOJ. OPOLSKIE</WOJ>
+            <GMINA>STRZELCE OPOLSKIE - OBSZAR MIEJSKI</GMINA>
+            <POWIAT>POWIAT STRZELECKI</POWIAT>
+            <MIEJSCOWOSC>STRZELCE OPOLSKIE</MIEJSCOWOSC>
+            <ULICA_ADRES>GOGOLIŃSKA</ULICA_ADRES>
+            <ZSSD_KOD>409</ZSSD_KOD>
+            <ULICA_SKRZYZ>BURSZTYNOWA</ULICA_SKRZYZ>
+            <DATA_ZDARZENIA>2014-01-01T16:15:00</DATA_ZDARZENIA>
+            <DATA_ZDARZ>2014-01-01</DATA_ZDARZ>
+            <GODZINA_ZDARZ>16:15:00</GODZINA_ZDARZ>
+            <PREDKOSC_DOPUSZCZALNA>50</PREDKOSC_DOPUSZCZALNA>
+            <SZOS_KOD>02</SZOS_KOD>
+            <SZOS_TABK_TYPE>SZOS</SZOS_TABK_TYPE>
+            <SZRD_KOD>02</SZRD_KOD>
+            <SZRD_TABK_TYPE>SZRD</SZRD_TABK_TYPE>
+            <DROGA_PUBLICZNA>T</DROGA_PUBLICZNA>
+            <LICZBA_PASOW>2</LICZBA_PASOW>
+            <INFO_O_DRODZE>
+                <NAWIERZCHNIA>
+                    <NADR_KOD>
+                        <ZSZD_ID>98079865</ZSZD_ID>
+                        <NADR_KOD>01</NADR_KOD>
+                        <NADR_TABK_TYPE>NADR</NADR_TABK_TYPE>
+                    </NADR_KOD>
+                </NAWIERZCHNIA>
+                <STAN_NAWIERZCHNI>
+                    <STNA_KOD>
+                        <ZSZD_ID>98079865</ZSZD_ID>
+                        <STNA_KOD>01</STNA_KOD>
+                        <STNA_TABK_TYPE>STNA</STNA_TABK_TYPE>
+                    </STNA_KOD>
+                </STAN_NAWIERZCHNI>
+                <RODZAJ_DROGI>
+                    <RODR_KOD>
+                        <ZSZD_ID>98079865</ZSZD_ID>
+                        <RODR_KOD>05</RODR_KOD>
+                        <RODR_TABK_TYPE>RODR</RODR_TABK_TYPE>
+                    </RODR_KOD>
+                </RODZAJ_DROGI>
+                <SYGNALIZACJA_SWIETLNA>
+                    <SYSW_KOD>
+                        <ZSZD_ID>98079865</ZSZD_ID>
+                        <SYSW_KOD>03</SYSW_KOD>
+                        <SYSW_TABK_TYPE>SYSW</SYSW_TABK_TYPE>
+                    </SYSW_KOD>
+                </SYGNALIZACJA_SWIETLNA>
+                <OZNAKOWANIE_POZIOME>
+                    <OZPO_KOD>
+                        <ZSZD_ID>98079865</ZSZD_ID>
+                        <OZPO_KOD>A1</OZPO_KOD>
+                        <OZPO_TABK_TYPE>OZPO</OZPO_TABK_TYPE>
+                    </OZPO_KOD>
+                </OZNAKOWANIE_POZIOME>
+            </INFO_O_DRODZE>
+            <MIEJSCE>
+                <SKRZYZOWANIE>
+                    <SKRZ_KOD>
+                        <ZSZD_ID>98079865</ZSZD_ID>
+                        <SKRZ_KOD>07</SKRZ_KOD>
+                        <SKRZ_TABK_TYPE>SKRZ</SKRZ_TABK_TYPE>
+                    </SKRZ_KOD>
+                </SKRZYZOWANIE>
+                <OBSZAR_ZABUDOWANY>
+                    <ZABU_KOD>
+                        <ZSZD_ID>98079865</ZSZD_ID>
+                        <ZABU_KOD>01</ZABU_KOD>
+                        <ZABU_TABK_TYPE>ZABU</ZABU_TABK_TYPE>
+                    </ZABU_KOD>
+                </OBSZAR_ZABUDOWANY>
+                <CHARAKT_MIEJSCA>
+                    <CHMZ_KOD>
+                        <ZSZD_ID>98079865</ZSZD_ID>
+                        <CHMZ_KOD>A1</CHMZ_KOD>
+                        <CHMZ_TABK_TYPE>CHMZ</CHMZ_TABK_TYPE>
+                    </CHMZ_KOD>
+                </CHARAKT_MIEJSCA>
+            </MIEJSCE>
+            <WARUNKI_ATMOSFERYCZNE>
+                <SSWA_KOD>
+                    <ZSZD_ID>98079865</ZSZD_ID>
+                    <SSWA_KOD>01</SSWA_KOD>
+                    <SSWA_TABK_TYPE>SSWA</SSWA_TABK_TYPE>
+                </SSWA_KOD>
+            </WARUNKI_ATMOSFERYCZNE>
+            <USZKODZENIA_POZA_POJAZDAMI>
+                <SSUP_KOD>
+                    <ZSZD_ID>98079865</ZSZD_ID>
+                    <SSUP_KOD>88</SSUP_KOD>
+                    <SSUP_TABK_TYPE>SSUP</SSUP_TABK_TYPE>
+                </SSUP_KOD>
+            </USZKODZENIA_POZA_POJAZDAMI>
+            <POJAZDY>
+                <POJAZD DataUtworzenia="2014-01-03" DataMod="2014-01-03">
+                    <ID>112259880</ID>
+                    <ZSZD_ID>98079865</ZSZD_ID>
+                    <NR_POJAZDU>1</NR_POJAZDU>
+                    <RODZAJ_POJAZDU>IS21</RODZAJ_POJAZDU>
+                    <MARKA>SKODA FABIA</MARKA>
+                    <SPSU_KOD>MTU</SPSU_KOD>
+                    <SPSU_TABK_TYPE>SPSU</SPSU_TABK_TYPE>
+                </POJAZD>
+                <POJAZD DataUtworzenia="2014-01-03" DataMod="2014-01-03">
+                    <ID>112259884</ID>
+                    <ZSZD_ID>98079865</ZSZD_ID>
+                    <NR_POJAZDU>2</NR_POJAZDU>
+                    <RODZAJ_POJAZDU>IS21</RODZAJ_POJAZDU>
+                    <MARKA>RENAULT MEGANE</MARKA>
+                    <SPSU_KOD>PZU</SPSU_KOD>
+                    <SPSU_TABK_TYPE>SPSU</SPSU_TABK_TYPE>
+                </POJAZD>
+            </POJAZDY>
+            <UCZESTNICY>
+                <OSOBA DataUtworzenia="2014-01-03" DataMod="2014-01-03">
+                    <ID>114592847</ID>
+                    <ZSZD_ID>98079865</ZSZD_ID>
+                    <ZSPO_ID>112259880</ZSPO_ID>
+                    <SSRU_KOD>K</SSRU_KOD>
+                    <SSRU_TABK_TYPE>SSRU</SSRU_TABK_TYPE>
+                    <DATA_UR>1948-01-03</DATA_UR>
+                    <SOBY_KOD>PL</SOBY_KOD>
+                    <SOBY_TABK_TYPE>SOBY</SOBY_TABK_TYPE>
+                    <PLEC>M</PLEC>
+                    <SRUZ_KOD>M</SRUZ_KOD>
+                    <SRUZ_TABK_TYPE>SRUZ</SRUZ_TABK_TYPE>
+                    <SUSU_KOD>P</SUSU_KOD>
+                    <SUSU_TABK_TYPE>SUSU</SUSU_TABK_TYPE>
+                    <LICZBA_LAT_KIEROWANIA>50</LICZBA_LAT_KIEROWANIA>
+                    <PRZYCZYNY_KIEROWCY>
+                        <SPSZ_KOD>
+                            <ZSUC_ID>114592847</ZSUC_ID>
+                            <SPSZ_KOD>02</SPSZ_KOD>
+                            <SPSZ_TABK_TYPE>SPSZ</SPSZ_TABK_TYPE>
+                        </SPSZ_KOD>
+                    </PRZYCZYNY_KIEROWCY>
+                </OSOBA>
+                <OSOBA DataUtworzenia="2014-01-03" DataMod="2014-01-03">
+                    <ID>114592849</ID>
+                    <ZSZD_ID>98079865</ZSZD_ID>
+                    <ZSPO_ID>112259884</ZSPO_ID>
+                    <SSRU_KOD>K</SSRU_KOD>
+                    <SSRU_TABK_TYPE>SSRU</SSRU_TABK_TYPE>
+                    <DATA_UR>1976-05-23</DATA_UR>
+                    <SOBY_KOD>PL</SOBY_KOD>
+                    <SOBY_TABK_TYPE>SOBY</SOBY_TABK_TYPE>
+                    <PLEC>M</PLEC>
+                    <SUSU_KOD>P</SUSU_KOD>
+                    <SUSU_TABK_TYPE>SUSU</SUSU_TABK_TYPE>
+                    <LICZBA_LAT_KIEROWANIA>21</LICZBA_LAT_KIEROWANIA>
+                </OSOBA>
+            </UCZESTNICY>
+        </ZDARZENIE>
+        <ZDARZENIE DataUtworzenia="2014-01-27" DataMod="2014-01-27" SzkicZdarzenia="N">
+            <ID>98108857</ID>
+            <JEDNOSTKA_MIEJSCA>OP KMP Opole</JEDNOSTKA_MIEJSCA>
+            <JEDNOSTKA_LIKWIDUJACA>OP KMP Opole Wydział Ruchu Drogowego</JEDNOSTKA_LIKWIDUJACA>
+            <JEDNOSTKA_OPERATORA>OP KMP Opole</JEDNOSTKA_OPERATORA>
+            <NR_KW>Nr Rejestru 6/14</NR_KW>
+            <KOD_GUS>1661011</KOD_GUS>
+            <GPS_X_GUS>17.9407285994535</GPS_X_GUS>
+            <GPS_Y_GUS>50.6613509369813</GPS_Y_GUS>
+            <WOJ>WOJ. OPOLSKIE</WOJ>
+            <GMINA>OPOLE - OBSZAR MIEJSKI</GMINA>
+            <POWIAT>POWIAT OPOLE</POWIAT>
+            <MIEJSCOWOSC>OPOLE</MIEJSCOWOSC>
+            <ULICA_ADRES>KRAPKOWICKA</ULICA_ADRES>
+            <ULICA_SKRZYZ>SPYCHALSKIEGO</ULICA_SKRZYZ>
+            <DATA_ZDARZENIA>2014-01-01T16:50:00</DATA_ZDARZENIA>
+            <DATA_ZDARZ>2014-01-01</DATA_ZDARZ>
+            <GODZINA_ZDARZ>16:50:00</GODZINA_ZDARZ>
+            <PREDKOSC_DOPUSZCZALNA>50</PREDKOSC_DOPUSZCZALNA>
+            <SZOS_KOD>03</SZOS_KOD>
+            <SZOS_TABK_TYPE>SZOS</SZOS_TABK_TYPE>
+            <SZRD_KOD>02</SZRD_KOD>
+            <SZRD_TABK_TYPE>SZRD</SZRD_TABK_TYPE>
+            <DROGA_PUBLICZNA>T</DROGA_PUBLICZNA>
+            <INFO_O_DRODZE>
+                <NAWIERZCHNIA>
+                    <NADR_KOD>
+                        <ZSZD_ID>98108857</ZSZD_ID>
+                        <NADR_KOD>01</NADR_KOD>
+                        <NADR_TABK_TYPE>NADR</NADR_TABK_TYPE>
+                    </NADR_KOD>
+                </NAWIERZCHNIA>
+                <STAN_NAWIERZCHNI>
+                    <STNA_KOD>
+                        <ZSZD_ID>98108857</ZSZD_ID>
+                        <STNA_KOD>01</STNA_KOD>
+                        <STNA_TABK_TYPE>STNA</STNA_TABK_TYPE>
+                    </STNA_KOD>
+                </STAN_NAWIERZCHNI>
+                <RODZAJ_DROGI>
+                    <RODR_KOD>
+                        <ZSZD_ID>98108857</ZSZD_ID>
+                        <RODR_KOD>05</RODR_KOD>
+                        <RODR_TABK_TYPE>RODR</RODR_TABK_TYPE>
+                    </RODR_KOD>
+                </RODZAJ_DROGI>
+                <SYGNALIZACJA_SWIETLNA>
+                    <SYSW_KOD>
+                        <ZSZD_ID>98108857</ZSZD_ID>
+                        <SYSW_KOD>03</SYSW_KOD>
+                        <SYSW_TABK_TYPE>SYSW</SYSW_TABK_TYPE>
+                    </SYSW_KOD>
+                </SYGNALIZACJA_SWIETLNA>
+                <OZNAKOWANIE_POZIOME>
+                    <OZPO_KOD>
+                        <ZSZD_ID>98108857</ZSZD_ID>
+                        <OZPO_KOD>A1</OZPO_KOD>
+                        <OZPO_TABK_TYPE>OZPO</OZPO_TABK_TYPE>
+                    </OZPO_KOD>
+                </OZNAKOWANIE_POZIOME>
+            </INFO_O_DRODZE>
+            <MIEJSCE>
+                <SKRZYZOWANIE>
+                    <SKRZ_KOD>
+                        <ZSZD_ID>98108857</ZSZD_ID>
+                        <SKRZ_KOD>08</SKRZ_KOD>
+                        <SKRZ_TABK_TYPE>SKRZ</SKRZ_TABK_TYPE>
+                    </SKRZ_KOD>
+                </SKRZYZOWANIE>
+                <OBSZAR_ZABUDOWANY>
+                    <ZABU_KOD>
+                        <ZSZD_ID>98108857</ZSZD_ID>
+                        <ZABU_KOD>01</ZABU_KOD>
+                        <ZABU_TABK_TYPE>ZABU</ZABU_TABK_TYPE>
+                    </ZABU_KOD>
+                </OBSZAR_ZABUDOWANY>
+                <CHARAKT_MIEJSCA>
+                    <CHMZ_KOD>
+                        <ZSZD_ID>98108857</ZSZD_ID>
+                        <CHMZ_KOD>A1</CHMZ_KOD>
+                        <CHMZ_TABK_TYPE>CHMZ</CHMZ_TABK_TYPE>
+                    </CHMZ_KOD>
+                </CHARAKT_MIEJSCA>
+            </MIEJSCE>
+            <WARUNKI_ATMOSFERYCZNE>
+                <SSWA_KOD>
+                    <ZSZD_ID>98108857</ZSZD_ID>
+                    <SSWA_KOD>04</SSWA_KOD>
+                    <SSWA_TABK_TYPE>SSWA</SSWA_TABK_TYPE>
+                </SSWA_KOD>
+            </WARUNKI_ATMOSFERYCZNE>
+            <POJAZDY>
+                <POJAZD DataUtworzenia="2014-01-27" DataMod="2014-01-27">
+                    <ID>112304829</ID>
+                    <ZSZD_ID>98108857</ZSZD_ID>
+                    <NR_POJAZDU>1</NR_POJAZDU>
+                    <RODZAJ_POJAZDU>IS21</RODZAJ_POJAZDU>
+                    <MARKA>OPEL NIEOKREŚLONY</MARKA>
+                    <SPSU_KOD>MTU</SPSU_KOD>
+                    <SPSU_TABK_TYPE>SPSU</SPSU_TABK_TYPE>
+                </POJAZD>
+                <POJAZD DataUtworzenia="2014-01-27" DataMod="2014-01-27">
+                    <ID>112304830</ID>
+                    <ZSZD_ID>98108857</ZSZD_ID>
+                    <NR_POJAZDU>2</NR_POJAZDU>
+                    <RODZAJ_POJAZDU>IS21</RODZAJ_POJAZDU>
+                    <MARKA>VOLKSWAGEN NIEOKREŚLONY</MARKA>
+                    <SPSU_KOD>MTU</SPSU_KOD>
+                    <SPSU_TABK_TYPE>SPSU</SPSU_TABK_TYPE>
+                </POJAZD>
+            </POJAZDY>
+            <UCZESTNICY>
+                <OSOBA DataUtworzenia="2014-01-27" DataMod="2014-01-27">
+                    <ID>114639500</ID>
+                    <ZSZD_ID>98108857</ZSZD_ID>
+                    <ZSPO_ID>112304829</ZSPO_ID>
+                    <SSRU_KOD>K</SSRU_KOD>
+                    <SSRU_TABK_TYPE>SSRU</SSRU_TABK_TYPE>
+                    <DATA_UR>1961-12-24</DATA_UR>
+                    <SOBY_KOD>PL</SOBY_KOD>
+                    <SOBY_TABK_TYPE>SOBY</SOBY_TABK_TYPE>
+                    <PLEC>K</PLEC>
+                    <SRUZ_KOD>M</SRUZ_KOD>
+                    <SRUZ_TABK_TYPE>SRUZ</SRUZ_TABK_TYPE>
+                    <SUSU_KOD>P</SUSU_KOD>
+                    <SUSU_TABK_TYPE>SUSU</SUSU_TABK_TYPE>
+                    <LICZBA_LAT_KIEROWANIA>15</LICZBA_LAT_KIEROWANIA>
+                    <PRZYCZYNY_KIEROWCY>
+                        <SPSZ_KOD>
+                            <ZSUC_ID>114639500</ZSUC_ID>
+                            <SPSZ_KOD>02</SPSZ_KOD>
+                            <SPSZ_TABK_TYPE>SPSZ</SPSZ_TABK_TYPE>
+                        </SPSZ_KOD>
+                    </PRZYCZYNY_KIEROWCY>
+                </OSOBA>
+                <OSOBA DataUtworzenia="2014-01-27" DataMod="2014-01-27">
+                    <ID>114639501</ID>
+                    <ZSZD_ID>98108857</ZSZD_ID>
+                    <ZSPO_ID>112304830</ZSPO_ID>
+                    <SSRU_KOD>K</SSRU_KOD>
+                    <SSRU_TABK_TYPE>SSRU</SSRU_TABK_TYPE>
+                    <DATA_UR>1994-02-16</DATA_UR>
+                    <SOBY_KOD>PL</SOBY_KOD>
+                    <SOBY_TABK_TYPE>SOBY</SOBY_TABK_TYPE>
+                    <PLEC>K</PLEC>
+                    <SUSU_KOD>P</SUSU_KOD>
+                    <SUSU_TABK_TYPE>SUSU</SUSU_TABK_TYPE>
+                    <LICZBA_LAT_KIEROWANIA>1</LICZBA_LAT_KIEROWANIA>
+                </OSOBA>
+            </UCZESTNICY>
+        </ZDARZENIE>
+        <ZDARZENIE DataUtworzenia="2014-01-02" DataMod="2014-01-02" SzkicZdarzenia="N">
+            <ID>98077110</ID>
+            <JEDNOSTKA_MIEJSCA>OP KPP Krapkowice</JEDNOSTKA_MIEJSCA>
+            <JEDNOSTKA_OPERATORA>OP KPP Krapkowice</JEDNOSTKA_OPERATORA>
+            <NR_KW>Ldz ER.5350.1.1.2014</NR_KW>
+            <KOD_GUS>1605015</KOD_GUS>
+            <WOJ>WOJ. OPOLSKIE</WOJ>
+            <GMINA>GOGOLIN - OBSZAR WIEJSKI</GMINA>
+            <POWIAT>POWIAT KRAPKOWICKI</POWIAT>
+            <ZSSD_KOD>423</ZSSD_KOD>
+            <KM_HM>33.6</KM_HM>
+            <DATA_ZDARZENIA>2014-01-01T15:50:00</DATA_ZDARZENIA>
+            <DATA_ZDARZ>2014-01-01</DATA_ZDARZ>
+            <GODZINA_ZDARZ>15:50:00</GODZINA_ZDARZ>
             <PREDKOSC_DOPUSZCZALNA>90</PREDKOSC_DOPUSZCZALNA>
-            <SZOS_KOD>05</SZOS_KOD>
+            <SZOS_KOD>01</SZOS_KOD>
             <SZOS_TABK_TYPE>SZOS</SZOS_TABK_TYPE>
             <SZRD_KOD>09</SZRD_KOD>
             <SZRD_TABK_TYPE>SZRD</SZRD_TABK_TYPE>
@@ -155,35 +612,158 @@
             <INFO_O_DRODZE>
                 <NAWIERZCHNIA>
                     <NADR_KOD>
-                        <ZSZD_ID>98081291</ZSZD_ID>
+                        <ZSZD_ID>98077110</ZSZD_ID>
                         <NADR_KOD>01</NADR_KOD>
                         <NADR_TABK_TYPE>NADR</NADR_TABK_TYPE>
                     </NADR_KOD>
                 </NAWIERZCHNIA>
                 <STAN_NAWIERZCHNI>
                     <STNA_KOD>
-                        <ZSZD_ID>98081291</ZSZD_ID>
+                        <ZSZD_ID>98077110</ZSZD_ID>
                         <STNA_KOD>01</STNA_KOD>
                         <STNA_TABK_TYPE>STNA</STNA_TABK_TYPE>
                     </STNA_KOD>
                 </STAN_NAWIERZCHNI>
                 <RODZAJ_DROGI>
                     <RODR_KOD>
-                        <ZSZD_ID>98081291</ZSZD_ID>
+                        <ZSZD_ID>98077110</ZSZD_ID>
                         <RODR_KOD>05</RODR_KOD>
                         <RODR_TABK_TYPE>RODR</RODR_TABK_TYPE>
                     </RODR_KOD>
                 </RODZAJ_DROGI>
                 <SYGNALIZACJA_SWIETLNA>
                     <SYSW_KOD>
-                        <ZSZD_ID>98081291</ZSZD_ID>
+                        <ZSZD_ID>98077110</ZSZD_ID>
                         <SYSW_KOD>03</SYSW_KOD>
                         <SYSW_TABK_TYPE>SYSW</SYSW_TABK_TYPE>
                     </SYSW_KOD>
                 </SYGNALIZACJA_SWIETLNA>
                 <OZNAKOWANIE_POZIOME>
                     <OZPO_KOD>
-                        <ZSZD_ID>98081291</ZSZD_ID>
+                        <ZSZD_ID>98077110</ZSZD_ID>
+                        <OZPO_KOD>A1</OZPO_KOD>
+                        <OZPO_TABK_TYPE>OZPO</OZPO_TABK_TYPE>
+                    </OZPO_KOD>
+                </OZNAKOWANIE_POZIOME>
+            </INFO_O_DRODZE>
+            <MIEJSCE>
+                <GEOMETRIA_DROGI>
+                    <GEOD_KOD>
+                        <ZSZD_ID>98077110</ZSZD_ID>
+                        <GEOD_KOD>01</GEOD_KOD>
+                        <GEOD_TABK_TYPE>GEOD</GEOD_TABK_TYPE>
+                    </GEOD_KOD>
+                </GEOMETRIA_DROGI>
+                <OBSZAR_ZABUDOWANY>
+                    <ZABU_KOD>
+                        <ZSZD_ID>98077110</ZSZD_ID>
+                        <ZABU_KOD>02</ZABU_KOD>
+                        <ZABU_TABK_TYPE>ZABU</ZABU_TABK_TYPE>
+                    </ZABU_KOD>
+                </OBSZAR_ZABUDOWANY>
+                <CHARAKT_MIEJSCA>
+                    <CHMZ_KOD>
+                        <ZSZD_ID>98077110</ZSZD_ID>
+                        <CHMZ_KOD>A1</CHMZ_KOD>
+                        <CHMZ_TABK_TYPE>CHMZ</CHMZ_TABK_TYPE>
+                    </CHMZ_KOD>
+                </CHARAKT_MIEJSCA>
+            </MIEJSCE>
+            <WARUNKI_ATMOSFERYCZNE>
+                <SSWA_KOD>
+                    <ZSZD_ID>98077110</ZSZD_ID>
+                    <SSWA_KOD>01</SSWA_KOD>
+                    <SSWA_TABK_TYPE>SSWA</SSWA_TABK_TYPE>
+                </SSWA_KOD>
+            </WARUNKI_ATMOSFERYCZNE>
+            <INNE_PRZYCZYNY>
+                <SPIP_KOD>
+                    <ZSZD_ID>98077110</ZSZD_ID>
+                    <SPIP_KOD>08</SPIP_KOD>
+                    <SPIP_TABK_TYPE>SPIP</SPIP_TABK_TYPE>
+                </SPIP_KOD>
+            </INNE_PRZYCZYNY>
+            <POJAZDY>
+                <POJAZD DataUtworzenia="2014-01-02" DataMod="2014-01-02">
+                    <ID>112257038</ID>
+                    <ZSZD_ID>98077110</ZSZD_ID>
+                    <NR_POJAZDU>1</NR_POJAZDU>
+                    <RODZAJ_POJAZDU>IS21</RODZAJ_POJAZDU>
+                    <MARKA>MERCEDES NIEOKREŚLONY</MARKA>
+                </POJAZD>
+            </POJAZDY>
+            <UCZESTNICY>
+                <OSOBA DataUtworzenia="2014-01-02" DataMod="2014-01-02">
+                    <ID>114589916</ID>
+                    <ZSZD_ID>98077110</ZSZD_ID>
+                    <ZSPO_ID>112257038</ZSPO_ID>
+                    <SSRU_KOD>K</SSRU_KOD>
+                    <SSRU_TABK_TYPE>SSRU</SSRU_TABK_TYPE>
+                    <DATA_UR>1977-09-26</DATA_UR>
+                    <SOBY_KOD>DE</SOBY_KOD>
+                    <SOBY_TABK_TYPE>SOBY</SOBY_TABK_TYPE>
+                    <PLEC>K</PLEC>
+                    <SUSU_KOD>P</SUSU_KOD>
+                    <SUSU_TABK_TYPE>SUSU</SUSU_TABK_TYPE>
+                </OSOBA>
+            </UCZESTNICY>
+        </ZDARZENIE>
+        <ZDARZENIE DataUtworzenia="2014-01-03" DataMod="2014-01-03" SzkicZdarzenia="N">
+            <ID>98079035</ID>
+            <JEDNOSTKA_MIEJSCA>OP KPP Nysa</JEDNOSTKA_MIEJSCA>
+            <JEDNOSTKA_LIKWIDUJACA>OP KPP Nysa Wydział Ruchu Drogowego</JEDNOSTKA_LIKWIDUJACA>
+            <JEDNOSTKA_OPERATORA>OP KPP Nysa</JEDNOSTKA_OPERATORA>
+            <NR_KW>Nr Rejestru R6/1/14</NR_KW>
+            <KOD_GUS>1607054</KOD_GUS>
+            <GPS_X_GUS>17.3341454348521</GPS_X_GUS>
+            <GPS_Y_GUS>50.4716750728345</GPS_Y_GUS>
+            <WOJ>WOJ. OPOLSKIE</WOJ>
+            <GMINA>NYSA - OBSZAR MIEJSKI</GMINA>
+            <POWIAT>POWIAT NYSKI</POWIAT>
+            <MIEJSCOWOSC>NYSA</MIEJSCOWOSC>
+            <ULICA_ADRES>TUWIMA</ULICA_ADRES>
+            <NUMER_DOMU>8</NUMER_DOMU>
+            <DATA_ZDARZENIA>2014-01-01T13:50:00</DATA_ZDARZENIA>
+            <DATA_ZDARZ>2014-01-01</DATA_ZDARZ>
+            <GODZINA_ZDARZ>13:50:00</GODZINA_ZDARZ>
+            <PREDKOSC_DOPUSZCZALNA>50</PREDKOSC_DOPUSZCZALNA>
+            <SZOS_KOD>01</SZOS_KOD>
+            <SZOS_TABK_TYPE>SZOS</SZOS_TABK_TYPE>
+            <SZRD_KOD>05</SZRD_KOD>
+            <SZRD_TABK_TYPE>SZRD</SZRD_TABK_TYPE>
+            <DROGA_PUBLICZNA>T</DROGA_PUBLICZNA>
+            <INFO_O_DRODZE>
+                <NAWIERZCHNIA>
+                    <NADR_KOD>
+                        <ZSZD_ID>98079035</ZSZD_ID>
+                        <NADR_KOD>01</NADR_KOD>
+                        <NADR_TABK_TYPE>NADR</NADR_TABK_TYPE>
+                    </NADR_KOD>
+                </NAWIERZCHNIA>
+                <STAN_NAWIERZCHNI>
+                    <STNA_KOD>
+                        <ZSZD_ID>98079035</ZSZD_ID>
+                        <STNA_KOD>01</STNA_KOD>
+                        <STNA_TABK_TYPE>STNA</STNA_TABK_TYPE>
+                    </STNA_KOD>
+                </STAN_NAWIERZCHNI>
+                <RODZAJ_DROGI>
+                    <RODR_KOD>
+                        <ZSZD_ID>98079035</ZSZD_ID>
+                        <RODR_KOD>05</RODR_KOD>
+                        <RODR_TABK_TYPE>RODR</RODR_TABK_TYPE>
+                    </RODR_KOD>
+                </RODZAJ_DROGI>
+                <SYGNALIZACJA_SWIETLNA>
+                    <SYSW_KOD>
+                        <ZSZD_ID>98079035</ZSZD_ID>
+                        <SYSW_KOD>03</SYSW_KOD>
+                        <SYSW_TABK_TYPE>SYSW</SYSW_TABK_TYPE>
+                    </SYSW_KOD>
+                </SYGNALIZACJA_SWIETLNA>
+                <OZNAKOWANIE_POZIOME>
+                    <OZPO_KOD>
+                        <ZSZD_ID>98079035</ZSZD_ID>
                         <OZPO_KOD>A2</OZPO_KOD>
                         <OZPO_TABK_TYPE>OZPO</OZPO_TABK_TYPE>
                     </OZPO_KOD>
@@ -192,21 +772,21 @@
             <MIEJSCE>
                 <GEOMETRIA_DROGI>
                     <GEOD_KOD>
-                        <ZSZD_ID>98081291</ZSZD_ID>
+                        <ZSZD_ID>98079035</ZSZD_ID>
                         <GEOD_KOD>01</GEOD_KOD>
                         <GEOD_TABK_TYPE>GEOD</GEOD_TABK_TYPE>
                     </GEOD_KOD>
                 </GEOMETRIA_DROGI>
                 <OBSZAR_ZABUDOWANY>
                     <ZABU_KOD>
-                        <ZSZD_ID>98081291</ZSZD_ID>
-                        <ZABU_KOD>02</ZABU_KOD>
+                        <ZSZD_ID>98079035</ZSZD_ID>
+                        <ZABU_KOD>01</ZABU_KOD>
                         <ZABU_TABK_TYPE>ZABU</ZABU_TABK_TYPE>
                     </ZABU_KOD>
                 </OBSZAR_ZABUDOWANY>
                 <CHARAKT_MIEJSCA>
                     <CHMZ_KOD>
-                        <ZSZD_ID>98081291</ZSZD_ID>
+                        <ZSZD_ID>98079035</ZSZD_ID>
                         <CHMZ_KOD>A1</CHMZ_KOD>
                         <CHMZ_TABK_TYPE>CHMZ</CHMZ_TABK_TYPE>
                     </CHMZ_KOD>
@@ -214,43 +794,668 @@
             </MIEJSCE>
             <WARUNKI_ATMOSFERYCZNE>
                 <SSWA_KOD>
-                    <ZSZD_ID>98081291</ZSZD_ID>
+                    <ZSZD_ID>98079035</ZSZD_ID>
                     <SSWA_KOD>01</SSWA_KOD>
+                    <SSWA_TABK_TYPE>SSWA</SSWA_TABK_TYPE>
+                </SSWA_KOD>
+            </WARUNKI_ATMOSFERYCZNE>
+            <POJAZDY>
+                <POJAZD DataUtworzenia="2014-01-03" DataMod="2014-01-03">
+                    <ID>112258360</ID>
+                    <ZSZD_ID>98079035</ZSZD_ID>
+                    <NR_POJAZDU>1</NR_POJAZDU>
+                    <RODZAJ_POJAZDU>IS21</RODZAJ_POJAZDU>
+                    <MARKA>OPEL NIEOKREŚLONY</MARKA>
+                </POJAZD>
+                <POJAZD DataUtworzenia="2014-01-03" DataMod="2014-01-03">
+                    <ID>112258361</ID>
+                    <ZSZD_ID>98079035</ZSZD_ID>
+                    <NR_POJAZDU>2</NR_POJAZDU>
+                    <RODZAJ_POJAZDU>IS21</RODZAJ_POJAZDU>
+                    <MARKA>VOLVO NIEOKREŚLONY</MARKA>
+                    <SPSU_KOD>HDI</SPSU_KOD>
+                    <SPSU_TABK_TYPE>SPSU</SPSU_TABK_TYPE>
+                </POJAZD>
+            </POJAZDY>
+            <UCZESTNICY>
+                <OSOBA DataUtworzenia="2014-01-03" DataMod="2014-01-03">
+                    <ID>114593362</ID>
+                    <ZSZD_ID>98079035</ZSZD_ID>
+                    <ZSPO_ID>112258360</ZSPO_ID>
+                    <SSRU_KOD>K</SSRU_KOD>
+                    <SSRU_TABK_TYPE>SSRU</SSRU_TABK_TYPE>
+                    <DATA_UR>1995-04-07</DATA_UR>
+                    <SOBY_KOD>PL</SOBY_KOD>
+                    <SOBY_TABK_TYPE>SOBY</SOBY_TABK_TYPE>
+                    <PLEC>K</PLEC>
+                    <SRUZ_KOD>W</SRUZ_KOD>
+                    <SRUZ_TABK_TYPE>SRUZ</SRUZ_TABK_TYPE>
+                    <SUSU_KOD>P</SUSU_KOD>
+                    <SUSU_TABK_TYPE>SUSU</SUSU_TABK_TYPE>
+                    <LICZBA_LAT_KIEROWANIA>1</LICZBA_LAT_KIEROWANIA>
+                    <ZBIEGL_Z_MIEJSCA>T</ZBIEGL_Z_MIEJSCA>
+                    <PRZYCZYNY_KIEROWCY>
+                        <SPSZ_KOD>
+                            <ZSUC_ID>114593362</ZSUC_ID>
+                            <SPSZ_KOD>09</SPSZ_KOD>
+                            <SPSZ_TABK_TYPE>SPSZ</SPSZ_TABK_TYPE>
+                        </SPSZ_KOD>
+                    </PRZYCZYNY_KIEROWCY>
+                </OSOBA>
+                <OSOBA DataUtworzenia="2014-01-03" DataMod="2014-01-03">
+                    <ID>114593381</ID>
+                    <ZSZD_ID>98079035</ZSZD_ID>
+                    <ZSPO_ID>112258361</ZSPO_ID>
+                    <SSRU_KOD>K</SSRU_KOD>
+                    <SSRU_TABK_TYPE>SSRU</SSRU_TABK_TYPE>
+                    <DATA_UR>1961-03-01</DATA_UR>
+                    <SOBY_KOD>PL</SOBY_KOD>
+                    <SOBY_TABK_TYPE>SOBY</SOBY_TABK_TYPE>
+                    <PLEC>M</PLEC>
+                    <SUSU_KOD>P</SUSU_KOD>
+                    <SUSU_TABK_TYPE>SUSU</SUSU_TABK_TYPE>
+                    <LICZBA_LAT_KIEROWANIA>34</LICZBA_LAT_KIEROWANIA>
+                    <INFO_DODATKOWE>
+                        <POD_WPLYWEM>
+                            <SUSW_KOD>
+                                <ZSUC_ID>114593381</ZSUC_ID>
+                                <SUSW_KOD>A</SUSW_KOD>
+                                <SUSW_TABK_TYPE>SUSW</SUSW_TABK_TYPE>
+                            </SUSW_KOD>
+                        </POD_WPLYWEM>
+                    </INFO_DODATKOWE>
+                </OSOBA>
+            </UCZESTNICY>
+        </ZDARZENIE>
+        <ZDARZENIE DataUtworzenia="2014-01-02" DataMod="2014-06-02" SzkicZdarzenia="N">
+            <ID>98078420</ID>
+            <JEDNOSTKA_MIEJSCA>OP KPP Nysa</JEDNOSTKA_MIEJSCA>
+            <JEDNOSTKA_LIKWIDUJACA>OP KPP Nysa Wydział Ruchu Drogowego</JEDNOSTKA_LIKWIDUJACA>
+            <JEDNOSTKA_OPERATORA>OP KPP Nysa</JEDNOSTKA_OPERATORA>
+            <NR_KW>Nr Rejestru R2/1/14</NR_KW>
+            <KOD_GUS>1607054</KOD_GUS>
+            <GPS_X_GUS>17.3341454348521</GPS_X_GUS>
+            <GPS_Y_GUS>50.4716750728345</GPS_Y_GUS>
+            <WOJ>WOJ. OPOLSKIE</WOJ>
+            <GMINA>NYSA - OBSZAR MIEJSKI</GMINA>
+            <POWIAT>POWIAT NYSKI</POWIAT>
+            <MIEJSCOWOSC>NYSA</MIEJSCOWOSC>
+            <ULICA_ADRES>POWSTAŃCÓW ŚLĄSKICH</ULICA_ADRES>
+            <NUMER_DOMU>78</NUMER_DOMU>
+            <DATA_ZDARZENIA>2014-01-01T20:50:00</DATA_ZDARZENIA>
+            <DATA_ZDARZ>2014-01-01</DATA_ZDARZ>
+            <GODZINA_ZDARZ>20:50:00</GODZINA_ZDARZ>
+            <PREDKOSC_DOPUSZCZALNA>40</PREDKOSC_DOPUSZCZALNA>
+            <SZOS_KOD>03</SZOS_KOD>
+            <SZOS_TABK_TYPE>SZOS</SZOS_TABK_TYPE>
+            <SZRD_KOD>09</SZRD_KOD>
+            <SZRD_TABK_TYPE>SZRD</SZRD_TABK_TYPE>
+            <DROGA_PUBLICZNA>T</DROGA_PUBLICZNA>
+            <INFO_O_DRODZE>
+                <NAWIERZCHNIA>
+                    <NADR_KOD>
+                        <ZSZD_ID>98078420</ZSZD_ID>
+                        <NADR_KOD>01</NADR_KOD>
+                        <NADR_TABK_TYPE>NADR</NADR_TABK_TYPE>
+                    </NADR_KOD>
+                </NAWIERZCHNIA>
+                <STAN_NAWIERZCHNI>
+                    <STNA_KOD>
+                        <ZSZD_ID>98078420</ZSZD_ID>
+                        <STNA_KOD>02</STNA_KOD>
+                        <STNA_TABK_TYPE>STNA</STNA_TABK_TYPE>
+                    </STNA_KOD>
+                </STAN_NAWIERZCHNI>
+                <RODZAJ_DROGI>
+                    <RODR_KOD>
+                        <ZSZD_ID>98078420</ZSZD_ID>
+                        <RODR_KOD>05</RODR_KOD>
+                        <RODR_TABK_TYPE>RODR</RODR_TABK_TYPE>
+                    </RODR_KOD>
+                </RODZAJ_DROGI>
+                <SYGNALIZACJA_SWIETLNA>
+                    <SYSW_KOD>
+                        <ZSZD_ID>98078420</ZSZD_ID>
+                        <SYSW_KOD>03</SYSW_KOD>
+                        <SYSW_TABK_TYPE>SYSW</SYSW_TABK_TYPE>
+                    </SYSW_KOD>
+                </SYGNALIZACJA_SWIETLNA>
+                <OZNAKOWANIE_POZIOME>
+                    <OZPO_KOD>
+                        <ZSZD_ID>98078420</ZSZD_ID>
+                        <OZPO_KOD>A2</OZPO_KOD>
+                        <OZPO_TABK_TYPE>OZPO</OZPO_TABK_TYPE>
+                    </OZPO_KOD>
+                </OZNAKOWANIE_POZIOME>
+            </INFO_O_DRODZE>
+            <MIEJSCE>
+                <GEOMETRIA_DROGI>
+                    <GEOD_KOD>
+                        <ZSZD_ID>98078420</ZSZD_ID>
+                        <GEOD_KOD>01</GEOD_KOD>
+                        <GEOD_TABK_TYPE>GEOD</GEOD_TABK_TYPE>
+                    </GEOD_KOD>
+                </GEOMETRIA_DROGI>
+                <OBSZAR_ZABUDOWANY>
+                    <ZABU_KOD>
+                        <ZSZD_ID>98078420</ZSZD_ID>
+                        <ZABU_KOD>01</ZABU_KOD>
+                        <ZABU_TABK_TYPE>ZABU</ZABU_TABK_TYPE>
+                    </ZABU_KOD>
+                </OBSZAR_ZABUDOWANY>
+                <CHARAKT_MIEJSCA>
+                    <CHMZ_KOD>
+                        <ZSZD_ID>98078420</ZSZD_ID>
+                        <CHMZ_KOD>A1</CHMZ_KOD>
+                        <CHMZ_TABK_TYPE>CHMZ</CHMZ_TABK_TYPE>
+                    </CHMZ_KOD>
+                </CHARAKT_MIEJSCA>
+            </MIEJSCE>
+            <WARUNKI_ATMOSFERYCZNE>
+                <SSWA_KOD>
+                    <ZSZD_ID>98078420</ZSZD_ID>
+                    <SSWA_KOD>04</SSWA_KOD>
+                    <SSWA_TABK_TYPE>SSWA</SSWA_TABK_TYPE>
+                </SSWA_KOD>
+                <SSWA_KOD>
+                    <ZSZD_ID>98078420</ZSZD_ID>
+                    <SSWA_KOD>07</SSWA_KOD>
                     <SSWA_TABK_TYPE>SSWA</SSWA_TABK_TYPE>
                 </SSWA_KOD>
             </WARUNKI_ATMOSFERYCZNE>
             <INNE_PRZYCZYNY>
                 <SPIP_KOD>
-                    <ZSZD_ID>98081291</ZSZD_ID>
+                    <ZSZD_ID>98078420</ZSZD_ID>
                     <SPIP_KOD>08</SPIP_KOD>
                     <SPIP_TABK_TYPE>SPIP</SPIP_TABK_TYPE>
                 </SPIP_KOD>
             </INNE_PRZYCZYNY>
             <POJAZDY>
-                <POJAZD DataUtworzenia="2014-01-07" DataMod="2014-01-07">
-                    <ID>112260790</ID>
-                    <ZSZD_ID>98081291</ZSZD_ID>
+                <POJAZD DataUtworzenia="2014-01-02" DataMod="2014-01-02">
+                    <ID>112255408</ID>
+                    <ZSZD_ID>98078420</ZSZD_ID>
                     <NR_POJAZDU>1</NR_POJAZDU>
                     <RODZAJ_POJAZDU>IS21</RODZAJ_POJAZDU>
-                    <MARKA>OPEL NIEOKRE�LONY</MARKA>
-                    <SPSU_KOD>MTU</SPSU_KOD>
+                    <MARKA>OPEL VIVARO</MARKA>
+                    <SPSU_KOD>1</SPSU_KOD>
                     <SPSU_TABK_TYPE>SPSU</SPSU_TABK_TYPE>
                 </POJAZD>
             </POJAZDY>
             <UCZESTNICY>
-                <OSOBA DataUtworzenia="2014-01-07" DataMod="2014-01-07">
-                    <ID>114593816</ID>
-                    <ZSZD_ID>98081291</ZSZD_ID>
-                    <ZSPO_ID>112260790</ZSPO_ID>
+                <OSOBA DataUtworzenia="2014-01-02" DataMod="2014-01-02">
+                    <ID>114590338</ID>
+                    <ZSZD_ID>98078420</ZSZD_ID>
+                    <ZSPO_ID>112255408</ZSPO_ID>
                     <SSRU_KOD>K</SSRU_KOD>
                     <SSRU_TABK_TYPE>SSRU</SSRU_TABK_TYPE>
-                    <DATA_UR>1966-06-23</DATA_UR>
+                    <DATA_UR>1957-12-21</DATA_UR>
+                    <SOBY_KOD>PL</SOBY_KOD>
+                    <SOBY_TABK_TYPE>SOBY</SOBY_TABK_TYPE>
+                    <PLEC>M</PLEC>
+                    <SRUZ_KOD>I</SRUZ_KOD>
+                    <SRUZ_TABK_TYPE>SRUZ</SRUZ_TABK_TYPE>
+                    <SUSU_KOD>P</SUSU_KOD>
+                    <SUSU_TABK_TYPE>SUSU</SUSU_TABK_TYPE>
+                    <LICZBA_LAT_KIEROWANIA>9</LICZBA_LAT_KIEROWANIA>
+                </OSOBA>
+            </UCZESTNICY>
+        </ZDARZENIE>
+        <ZDARZENIE DataUtworzenia="2014-01-28" DataMod="2014-01-28" SzkicZdarzenia="N">
+            <ID>98110145</ID>
+            <JEDNOSTKA_MIEJSCA>OP KMP Opole</JEDNOSTKA_MIEJSCA>
+            <JEDNOSTKA_LIKWIDUJACA>OP KMP Opole Wydział Ruchu Drogowego</JEDNOSTKA_LIKWIDUJACA>
+            <JEDNOSTKA_OPERATORA>OP KMP Opole</JEDNOSTKA_OPERATORA>
+            <NR_KW>Nr Rejestru 9/14</NR_KW>
+            <KOD_GUS>1661011</KOD_GUS>
+            <GPS_X_GUS>17.9407285994535</GPS_X_GUS>
+            <GPS_Y_GUS>50.6613509369813</GPS_Y_GUS>
+            <WOJ>WOJ. OPOLSKIE</WOJ>
+            <GMINA>OPOLE - OBSZAR MIEJSKI</GMINA>
+            <POWIAT>POWIAT OPOLE</POWIAT>
+            <MIEJSCOWOSC>OPOLE</MIEJSCOWOSC>
+            <ULICA_ADRES>LUBOSZYCKA</ULICA_ADRES>
+            <NUMER_DOMU>7</NUMER_DOMU>
+            <DATA_ZDARZENIA>2014-01-01T15:35:00</DATA_ZDARZENIA>
+            <DATA_ZDARZ>2014-01-01</DATA_ZDARZ>
+            <GODZINA_ZDARZ>15:35:00</GODZINA_ZDARZ>
+            <PREDKOSC_DOPUSZCZALNA>30</PREDKOSC_DOPUSZCZALNA>
+            <SZOS_KOD>01</SZOS_KOD>
+            <SZOS_TABK_TYPE>SZOS</SZOS_TABK_TYPE>
+            <SZRD_KOD>05</SZRD_KOD>
+            <SZRD_TABK_TYPE>SZRD</SZRD_TABK_TYPE>
+            <DROGA_PUBLICZNA>T</DROGA_PUBLICZNA>
+            <INFO_O_DRODZE>
+                <NAWIERZCHNIA>
+                    <NADR_KOD>
+                        <ZSZD_ID>98110145</ZSZD_ID>
+                        <NADR_KOD>01</NADR_KOD>
+                        <NADR_TABK_TYPE>NADR</NADR_TABK_TYPE>
+                    </NADR_KOD>
+                </NAWIERZCHNIA>
+                <STAN_NAWIERZCHNI>
+                    <STNA_KOD>
+                        <ZSZD_ID>98110145</ZSZD_ID>
+                        <STNA_KOD>01</STNA_KOD>
+                        <STNA_TABK_TYPE>STNA</STNA_TABK_TYPE>
+                    </STNA_KOD>
+                </STAN_NAWIERZCHNI>
+                <RODZAJ_DROGI>
+                    <RODR_KOD>
+                        <ZSZD_ID>98110145</ZSZD_ID>
+                        <RODR_KOD>05</RODR_KOD>
+                        <RODR_TABK_TYPE>RODR</RODR_TABK_TYPE>
+                    </RODR_KOD>
+                </RODZAJ_DROGI>
+                <SYGNALIZACJA_SWIETLNA>
+                    <SYSW_KOD>
+                        <ZSZD_ID>98110145</ZSZD_ID>
+                        <SYSW_KOD>03</SYSW_KOD>
+                        <SYSW_TABK_TYPE>SYSW</SYSW_TABK_TYPE>
+                    </SYSW_KOD>
+                </SYGNALIZACJA_SWIETLNA>
+                <OZNAKOWANIE_POZIOME>
+                    <OZPO_KOD>
+                        <ZSZD_ID>98110145</ZSZD_ID>
+                        <OZPO_KOD>A1</OZPO_KOD>
+                        <OZPO_TABK_TYPE>OZPO</OZPO_TABK_TYPE>
+                    </OZPO_KOD>
+                </OZNAKOWANIE_POZIOME>
+            </INFO_O_DRODZE>
+            <MIEJSCE>
+                <GEOMETRIA_DROGI>
+                    <GEOD_KOD>
+                        <ZSZD_ID>98110145</ZSZD_ID>
+                        <GEOD_KOD>01</GEOD_KOD>
+                        <GEOD_TABK_TYPE>GEOD</GEOD_TABK_TYPE>
+                    </GEOD_KOD>
+                </GEOMETRIA_DROGI>
+                <OBSZAR_ZABUDOWANY>
+                    <ZABU_KOD>
+                        <ZSZD_ID>98110145</ZSZD_ID>
+                        <ZABU_KOD>01</ZABU_KOD>
+                        <ZABU_TABK_TYPE>ZABU</ZABU_TABK_TYPE>
+                    </ZABU_KOD>
+                </OBSZAR_ZABUDOWANY>
+                <CHARAKT_MIEJSCA>
+                    <CHMZ_KOD>
+                        <ZSZD_ID>98110145</ZSZD_ID>
+                        <CHMZ_KOD>10</CHMZ_KOD>
+                        <CHMZ_TABK_TYPE>CHMZ</CHMZ_TABK_TYPE>
+                    </CHMZ_KOD>
+                </CHARAKT_MIEJSCA>
+            </MIEJSCE>
+            <WARUNKI_ATMOSFERYCZNE>
+                <SSWA_KOD>
+                    <ZSZD_ID>98110145</ZSZD_ID>
+                    <SSWA_KOD>01</SSWA_KOD>
+                    <SSWA_TABK_TYPE>SSWA</SSWA_TABK_TYPE>
+                </SSWA_KOD>
+            </WARUNKI_ATMOSFERYCZNE>
+            <USZKODZENIA_POZA_POJAZDAMI>
+                <SSUP_KOD>
+                    <ZSZD_ID>98110145</ZSZD_ID>
+                    <SSUP_KOD>86</SSUP_KOD>
+                    <SSUP_TABK_TYPE>SSUP</SSUP_TABK_TYPE>
+                </SSUP_KOD>
+            </USZKODZENIA_POZA_POJAZDAMI>
+            <POJAZDY>
+                <POJAZD DataUtworzenia="2014-01-28" DataMod="2014-01-28">
+                    <ID>112306238</ID>
+                    <ZSZD_ID>98110145</ZSZD_ID>
+                    <NR_POJAZDU>1</NR_POJAZDU>
+                    <RODZAJ_POJAZDU>IS21</RODZAJ_POJAZDU>
+                    <MARKA>MAZDA NIEOKREŚLONY</MARKA>
+                    <SPSU_KOD>BRAK</SPSU_KOD>
+                    <SPSU_TABK_TYPE>SPSU</SPSU_TABK_TYPE>
+                </POJAZD>
+                <POJAZD DataUtworzenia="2014-01-28" DataMod="2014-01-28">
+                    <ID>112306240</ID>
+                    <ZSZD_ID>98110145</ZSZD_ID>
+                    <NR_POJAZDU>2</NR_POJAZDU>
+                    <RODZAJ_POJAZDU>IS21</RODZAJ_POJAZDU>
+                    <MARKA>FORD NIEOKREŚLONY</MARKA>
+                    <SPSU_KOD>LIBERTY</SPSU_KOD>
+                    <SPSU_TABK_TYPE>SPSU</SPSU_TABK_TYPE>
+                </POJAZD>
+            </POJAZDY>
+            <UCZESTNICY>
+                <OSOBA DataUtworzenia="2014-01-28" DataMod="2014-01-28">
+                    <ID>114640974</ID>
+                    <ZSZD_ID>98110145</ZSZD_ID>
+                    <ZSPO_ID>112306238</ZSPO_ID>
+                    <SSRU_KOD>K</SSRU_KOD>
+                    <SSRU_TABK_TYPE>SSRU</SSRU_TABK_TYPE>
+                    <DATA_UR>1979-12-11</DATA_UR>
+                    <SOBY_KOD>PL</SOBY_KOD>
+                    <SOBY_TABK_TYPE>SOBY</SOBY_TABK_TYPE>
+                    <PLEC>M</PLEC>
+                    <SRUZ_KOD>W</SRUZ_KOD>
+                    <SRUZ_TABK_TYPE>SRUZ</SRUZ_TABK_TYPE>
+                    <SUSU_KOD>N</SUSU_KOD>
+                    <SUSU_TABK_TYPE>SUSU</SUSU_TABK_TYPE>
+                    <INFO_DODATKOWE>
+                        <POD_WPLYWEM>
+                            <SUSW_KOD>
+                                <ZSUC_ID>114640974</ZSUC_ID>
+                                <SUSW_KOD>A</SUSW_KOD>
+                                <SUSW_TABK_TYPE>SUSW</SUSW_TABK_TYPE>
+                            </SUSW_KOD>
+                        </POD_WPLYWEM>
+                    </INFO_DODATKOWE>
+                    <PRZYCZYNY_KIEROWCY>
+                        <SPSZ_KOD>
+                            <ZSUC_ID>114640974</ZSUC_ID>
+                            <SPSZ_KOD>01</SPSZ_KOD>
+                            <SPSZ_TABK_TYPE>SPSZ</SPSZ_TABK_TYPE>
+                        </SPSZ_KOD>
+                    </PRZYCZYNY_KIEROWCY>
+                </OSOBA>
+                <OSOBA DataUtworzenia="2014-01-28" DataMod="2014-01-28">
+                    <ID>114640976</ID>
+                    <ZSZD_ID>98110145</ZSZD_ID>
+                    <ZSPO_ID>112306240</ZSPO_ID>
+                    <SSRU_KOD>K</SSRU_KOD>
+                    <SSRU_TABK_TYPE>SSRU</SSRU_TABK_TYPE>
+                    <DATA_UR>1980-07-09</DATA_UR>
                     <SOBY_KOD>PL</SOBY_KOD>
                     <SOBY_TABK_TYPE>SOBY</SOBY_TABK_TYPE>
                     <PLEC>K</PLEC>
                     <SUSU_KOD>P</SUSU_KOD>
                     <SUSU_TABK_TYPE>SUSU</SUSU_TABK_TYPE>
-                    <LICZBA_LAT_KIEROWANIA>21</LICZBA_LAT_KIEROWANIA>
+                </OSOBA>
+            </UCZESTNICY>
+        </ZDARZENIE>
+        <ZDARZENIE DataUtworzenia="2014-01-02" DataMod="2014-01-02" SzkicZdarzenia="N">
+            <ID>98078410</ID>
+            <JEDNOSTKA_MIEJSCA>OP KPP Nysa</JEDNOSTKA_MIEJSCA>
+            <JEDNOSTKA_LIKWIDUJACA>OP KPP Nysa Wydział Ruchu Drogowego</JEDNOSTKA_LIKWIDUJACA>
+            <JEDNOSTKA_OPERATORA>OP KPP Nysa</JEDNOSTKA_OPERATORA>
+            <NR_KW>Nr Rejestru R1/1/14</NR_KW>
+            <KOD_GUS>1607054</KOD_GUS>
+            <GPS_X_GUS>17.3341454348521</GPS_X_GUS>
+            <GPS_Y_GUS>50.4716750728345</GPS_Y_GUS>
+            <WOJ>WOJ. OPOLSKIE</WOJ>
+            <GMINA>NYSA - OBSZAR MIEJSKI</GMINA>
+            <POWIAT>POWIAT NYSKI</POWIAT>
+            <MIEJSCOWOSC>NYSA</MIEJSCOWOSC>
+            <ULICA_ADRES>PODOLSKA</ULICA_ADRES>
+            <NUMER_DOMU>22</NUMER_DOMU>
+            <DATA_ZDARZENIA>2014-01-01T00:46:00</DATA_ZDARZENIA>
+            <DATA_ZDARZ>2014-01-01</DATA_ZDARZ>
+            <GODZINA_ZDARZ>00:46:00</GODZINA_ZDARZ>
+            <PREDKOSC_DOPUSZCZALNA>50</PREDKOSC_DOPUSZCZALNA>
+            <SZOS_KOD>03</SZOS_KOD>
+            <SZOS_TABK_TYPE>SZOS</SZOS_TABK_TYPE>
+            <SZRD_KOD>A2</SZRD_KOD>
+            <SZRD_TABK_TYPE>SZRD</SZRD_TABK_TYPE>
+            <DROGA_PUBLICZNA>T</DROGA_PUBLICZNA>
+            <INFO_O_DRODZE>
+                <NAWIERZCHNIA>
+                    <NADR_KOD>
+                        <ZSZD_ID>98078410</ZSZD_ID>
+                        <NADR_KOD>01</NADR_KOD>
+                        <NADR_TABK_TYPE>NADR</NADR_TABK_TYPE>
+                    </NADR_KOD>
+                </NAWIERZCHNIA>
+                <STAN_NAWIERZCHNI>
+                    <STNA_KOD>
+                        <ZSZD_ID>98078410</ZSZD_ID>
+                        <STNA_KOD>02</STNA_KOD>
+                        <STNA_TABK_TYPE>STNA</STNA_TABK_TYPE>
+                    </STNA_KOD>
+                </STAN_NAWIERZCHNI>
+                <RODZAJ_DROGI>
+                    <RODR_KOD>
+                        <ZSZD_ID>98078410</ZSZD_ID>
+                        <RODR_KOD>05</RODR_KOD>
+                        <RODR_TABK_TYPE>RODR</RODR_TABK_TYPE>
+                    </RODR_KOD>
+                </RODZAJ_DROGI>
+                <SYGNALIZACJA_SWIETLNA>
+                    <SYSW_KOD>
+                        <ZSZD_ID>98078410</ZSZD_ID>
+                        <SYSW_KOD>03</SYSW_KOD>
+                        <SYSW_TABK_TYPE>SYSW</SYSW_TABK_TYPE>
+                    </SYSW_KOD>
+                </SYGNALIZACJA_SWIETLNA>
+                <OZNAKOWANIE_POZIOME>
+                    <OZPO_KOD>
+                        <ZSZD_ID>98078410</ZSZD_ID>
+                        <OZPO_KOD>A2</OZPO_KOD>
+                        <OZPO_TABK_TYPE>OZPO</OZPO_TABK_TYPE>
+                    </OZPO_KOD>
+                </OZNAKOWANIE_POZIOME>
+            </INFO_O_DRODZE>
+            <MIEJSCE>
+                <GEOMETRIA_DROGI>
+                    <GEOD_KOD>
+                        <ZSZD_ID>98078410</ZSZD_ID>
+                        <GEOD_KOD>01</GEOD_KOD>
+                        <GEOD_TABK_TYPE>GEOD</GEOD_TABK_TYPE>
+                    </GEOD_KOD>
+                </GEOMETRIA_DROGI>
+                <OBSZAR_ZABUDOWANY>
+                    <ZABU_KOD>
+                        <ZSZD_ID>98078410</ZSZD_ID>
+                        <ZABU_KOD>01</ZABU_KOD>
+                        <ZABU_TABK_TYPE>ZABU</ZABU_TABK_TYPE>
+                    </ZABU_KOD>
+                </OBSZAR_ZABUDOWANY>
+                <CHARAKT_MIEJSCA>
+                    <CHMZ_KOD>
+                        <ZSZD_ID>98078410</ZSZD_ID>
+                        <CHMZ_KOD>A1</CHMZ_KOD>
+                        <CHMZ_TABK_TYPE>CHMZ</CHMZ_TABK_TYPE>
+                    </CHMZ_KOD>
+                </CHARAKT_MIEJSCA>
+            </MIEJSCE>
+            <WARUNKI_ATMOSFERYCZNE>
+                <SSWA_KOD>
+                    <ZSZD_ID>98078410</ZSZD_ID>
+                    <SSWA_KOD>07</SSWA_KOD>
+                    <SSWA_TABK_TYPE>SSWA</SSWA_TABK_TYPE>
+                </SSWA_KOD>
+            </WARUNKI_ATMOSFERYCZNE>
+            <POJAZDY>
+                <POJAZD DataUtworzenia="2014-01-02" DataMod="2014-01-02">
+                    <ID>112255388</ID>
+                    <ZSZD_ID>98078410</ZSZD_ID>
+                    <NR_POJAZDU>1</NR_POJAZDU>
+                    <RODZAJ_POJAZDU>IS21</RODZAJ_POJAZDU>
+                    <MARKA>OPEL NIEOKREŚLONY</MARKA>
+                    <SPSU_KOD>COMPENSA</SPSU_KOD>
+                    <SPSU_TABK_TYPE>SPSU</SPSU_TABK_TYPE>
+                </POJAZD>
+            </POJAZDY>
+            <UCZESTNICY>
+                <OSOBA DataUtworzenia="2014-01-02" DataMod="2014-01-02">
+                    <ID>114590318</ID>
+                    <ZSZD_ID>98078410</ZSZD_ID>
+                    <ZSPO_ID>112255388</ZSPO_ID>
+                    <SSRU_KOD>K</SSRU_KOD>
+                    <SSRU_TABK_TYPE>SSRU</SSRU_TABK_TYPE>
+                    <DATA_UR>1995-05-19</DATA_UR>
+                    <SOBY_KOD>PL</SOBY_KOD>
+                    <SOBY_TABK_TYPE>SOBY</SOBY_TABK_TYPE>
+                    <PLEC>M</PLEC>
+                    <SRUZ_KOD>D</SRUZ_KOD>
+                    <SRUZ_TABK_TYPE>SRUZ</SRUZ_TABK_TYPE>
+                    <SUSU_KOD>N</SUSU_KOD>
+                    <SUSU_TABK_TYPE>SUSU</SUSU_TABK_TYPE>
+                    <INFO_DODATKOWE>
+                        <POD_WPLYWEM>
+                            <SUSW_KOD>
+                                <ZSUC_ID>114590318</ZSUC_ID>
+                                <SUSW_KOD>A</SUSW_KOD>
+                                <SUSW_TABK_TYPE>SUSW</SUSW_TABK_TYPE>
+                            </SUSW_KOD>
+                        </POD_WPLYWEM>
+                    </INFO_DODATKOWE>
+                    <ZBIEGL_Z_MIEJSCA>T</ZBIEGL_Z_MIEJSCA>
+                    <PRZYCZYNY_KIEROWCY>
+                        <SPSZ_KOD>
+                            <ZSUC_ID>114590318</ZSUC_ID>
+                            <SPSZ_KOD>01</SPSZ_KOD>
+                            <SPSZ_TABK_TYPE>SPSZ</SPSZ_TABK_TYPE>
+                        </SPSZ_KOD>
+                    </PRZYCZYNY_KIEROWCY>
+                </OSOBA>
+            </UCZESTNICY>
+        </ZDARZENIE>
+        <ZDARZENIE DataUtworzenia="2014-02-10" DataMod="2014-02-10" SzkicZdarzenia="N">
+            <ID>98124949</ID>
+            <JEDNOSTKA_MIEJSCA>OP KMP Opole</JEDNOSTKA_MIEJSCA>
+            <JEDNOSTKA_LIKWIDUJACA>OP KMP Opole Wydział Ruchu Drogowego</JEDNOSTKA_LIKWIDUJACA>
+            <JEDNOSTKA_OPERATORA>OP KMP Opole</JEDNOSTKA_OPERATORA>
+            <NR_KW>Nr Rejestru 7/14</NR_KW>
+            <KOD_GUS>1661011</KOD_GUS>
+            <GPS_X_GUS>17.9407285994535</GPS_X_GUS>
+            <GPS_Y_GUS>50.6613509369813</GPS_Y_GUS>
+            <WOJ>WOJ. OPOLSKIE</WOJ>
+            <GMINA>OPOLE - OBSZAR MIEJSKI</GMINA>
+            <POWIAT>POWIAT OPOLE</POWIAT>
+            <MIEJSCOWOSC>OPOLE</MIEJSCOWOSC>
+            <ULICA_ADRES>SĄDOWA</ULICA_ADRES>
+            <NUMER_DOMU>9</NUMER_DOMU>
+            <DATA_ZDARZENIA>2014-01-01T15:20:00</DATA_ZDARZENIA>
+            <DATA_ZDARZ>2014-01-01</DATA_ZDARZ>
+            <GODZINA_ZDARZ>15:20:00</GODZINA_ZDARZ>
+            <PREDKOSC_DOPUSZCZALNA>50</PREDKOSC_DOPUSZCZALNA>
+            <SZOS_KOD>01</SZOS_KOD>
+            <SZOS_TABK_TYPE>SZOS</SZOS_TABK_TYPE>
+            <SZRD_KOD>05</SZRD_KOD>
+            <SZRD_TABK_TYPE>SZRD</SZRD_TABK_TYPE>
+            <DROGA_PUBLICZNA>T</DROGA_PUBLICZNA>
+            <INFO_O_DRODZE>
+                <NAWIERZCHNIA>
+                    <NADR_KOD>
+                        <ZSZD_ID>98124949</ZSZD_ID>
+                        <NADR_KOD>01</NADR_KOD>
+                        <NADR_TABK_TYPE>NADR</NADR_TABK_TYPE>
+                    </NADR_KOD>
+                </NAWIERZCHNIA>
+                <STAN_NAWIERZCHNI>
+                    <STNA_KOD>
+                        <ZSZD_ID>98124949</ZSZD_ID>
+                        <STNA_KOD>01</STNA_KOD>
+                        <STNA_TABK_TYPE>STNA</STNA_TABK_TYPE>
+                    </STNA_KOD>
+                </STAN_NAWIERZCHNI>
+                <RODZAJ_DROGI>
+                    <RODR_KOD>
+                        <ZSZD_ID>98124949</ZSZD_ID>
+                        <RODR_KOD>05</RODR_KOD>
+                        <RODR_TABK_TYPE>RODR</RODR_TABK_TYPE>
+                    </RODR_KOD>
+                </RODZAJ_DROGI>
+                <SYGNALIZACJA_SWIETLNA>
+                    <SYSW_KOD>
+                        <ZSZD_ID>98124949</ZSZD_ID>
+                        <SYSW_KOD>03</SYSW_KOD>
+                        <SYSW_TABK_TYPE>SYSW</SYSW_TABK_TYPE>
+                    </SYSW_KOD>
+                </SYGNALIZACJA_SWIETLNA>
+                <OZNAKOWANIE_POZIOME>
+                    <OZPO_KOD>
+                        <ZSZD_ID>98124949</ZSZD_ID>
+                        <OZPO_KOD>A2</OZPO_KOD>
+                        <OZPO_TABK_TYPE>OZPO</OZPO_TABK_TYPE>
+                    </OZPO_KOD>
+                </OZNAKOWANIE_POZIOME>
+            </INFO_O_DRODZE>
+            <MIEJSCE>
+                <GEOMETRIA_DROGI>
+                    <GEOD_KOD>
+                        <ZSZD_ID>98124949</ZSZD_ID>
+                        <GEOD_KOD>01</GEOD_KOD>
+                        <GEOD_TABK_TYPE>GEOD</GEOD_TABK_TYPE>
+                    </GEOD_KOD>
+                </GEOMETRIA_DROGI>
+                <OBSZAR_ZABUDOWANY>
+                    <ZABU_KOD>
+                        <ZSZD_ID>98124949</ZSZD_ID>
+                        <ZABU_KOD>01</ZABU_KOD>
+                        <ZABU_TABK_TYPE>ZABU</ZABU_TABK_TYPE>
+                    </ZABU_KOD>
+                </OBSZAR_ZABUDOWANY>
+                <CHARAKT_MIEJSCA>
+                    <CHMZ_KOD>
+                        <ZSZD_ID>98124949</ZSZD_ID>
+                        <CHMZ_KOD>A1</CHMZ_KOD>
+                        <CHMZ_TABK_TYPE>CHMZ</CHMZ_TABK_TYPE>
+                    </CHMZ_KOD>
+                </CHARAKT_MIEJSCA>
+            </MIEJSCE>
+            <WARUNKI_ATMOSFERYCZNE>
+                <SSWA_KOD>
+                    <ZSZD_ID>98124949</ZSZD_ID>
+                    <SSWA_KOD>01</SSWA_KOD>
+                    <SSWA_TABK_TYPE>SSWA</SSWA_TABK_TYPE>
+                </SSWA_KOD>
+            </WARUNKI_ATMOSFERYCZNE>
+            <POJAZDY>
+                <POJAZD DataUtworzenia="2014-02-10" DataMod="2014-02-10">
+                    <ID>112331082</ID>
+                    <ZSZD_ID>98124949</ZSZD_ID>
+                    <NR_POJAZDU>1</NR_POJAZDU>
+                    <RODZAJ_POJAZDU>IS21</RODZAJ_POJAZDU>
+                    <MARKA>MAZDA NIEOKREŚLONY</MARKA>
+                    <SPSU_KOD>BRAK</SPSU_KOD>
+                    <SPSU_TABK_TYPE>SPSU</SPSU_TABK_TYPE>
+                </POJAZD>
+                <POJAZD DataUtworzenia="2014-02-10" DataMod="2014-02-10">
+                    <ID>112331083</ID>
+                    <ZSZD_ID>98124949</ZSZD_ID>
+                    <NR_POJAZDU>2</NR_POJAZDU>
+                    <RODZAJ_POJAZDU>IS10</RODZAJ_POJAZDU>
+                    <SPSU_KOD>ZK</SPSU_KOD>
+                    <SPSU_TABK_TYPE>SPSU</SPSU_TABK_TYPE>
+                </POJAZD>
+            </POJAZDY>
+            <UCZESTNICY>
+                <OSOBA DataUtworzenia="2014-02-10" DataMod="2014-02-10">
+                    <ID>114669119</ID>
+                    <ZSZD_ID>98124949</ZSZD_ID>
+                    <ZSPO_ID>112331082</ZSPO_ID>
+                    <SSRU_KOD>K</SSRU_KOD>
+                    <SSRU_TABK_TYPE>SSRU</SSRU_TABK_TYPE>
+                    <DATA_UR>1979-12-11</DATA_UR>
+                    <SOBY_KOD>PL</SOBY_KOD>
+                    <SOBY_TABK_TYPE>SOBY</SOBY_TABK_TYPE>
+                    <PLEC>M</PLEC>
+                    <SRUZ_KOD>W</SRUZ_KOD>
+                    <SRUZ_TABK_TYPE>SRUZ</SRUZ_TABK_TYPE>
+                    <SUSU_KOD>B</SUSU_KOD>
+                    <SUSU_TABK_TYPE>SUSU</SUSU_TABK_TYPE>
+                    <INFO_DODATKOWE>
+                        <POD_WPLYWEM>
+                            <SUSW_KOD>
+                                <ZSUC_ID>114669119</ZSUC_ID>
+                                <SUSW_KOD>A</SUSW_KOD>
+                                <SUSW_TABK_TYPE>SUSW</SUSW_TABK_TYPE>
+                            </SUSW_KOD>
+                        </POD_WPLYWEM>
+                    </INFO_DODATKOWE>
+                    <PRZYCZYNY_KIEROWCY>
+                        <SPSZ_KOD>
+                            <ZSUC_ID>114669119</ZSUC_ID>
+                            <SPSZ_KOD>09</SPSZ_KOD>
+                            <SPSZ_TABK_TYPE>SPSZ</SPSZ_TABK_TYPE>
+                        </SPSZ_KOD>
+                    </PRZYCZYNY_KIEROWCY>
+                </OSOBA>
+                <OSOBA DataUtworzenia="2014-02-10" DataMod="2014-02-10">
+                    <ID>114669121</ID>
+                    <ZSZD_ID>98124949</ZSZD_ID>
+                    <ZSPO_ID>112331083</ZSPO_ID>
+                    <SSRU_KOD>K</SSRU_KOD>
+                    <SSRU_TABK_TYPE>SSRU</SSRU_TABK_TYPE>
+                    <DATA_UR>1980-10-18</DATA_UR>
+                    <SOBY_KOD>PL</SOBY_KOD>
+                    <SOBY_TABK_TYPE>SOBY</SOBY_TABK_TYPE>
+                    <PLEC>M</PLEC>
+                    <SUSU_KOD>P</SUSU_KOD>
+                    <SUSU_TABK_TYPE>SUSU</SUSU_TABK_TYPE>
                 </OSOBA>
             </UCZESTNICY>
         </ZDARZENIE>
